@@ -4,27 +4,27 @@ NOIR
 
 [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
-[Changelog](https://github.com/SudoStormie/NOISE-Wabbajack-Installer/blob/master/changelog.md)
+[Changelog](https://drive.google.com/open?id=1k5D8ccTMw-L-WZ3G8gjjZQsicsVRXf6Y)
 
-NOISE is a Modlist with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim++.
+NOIR is a modlist for playing Requiem 3.4 using as foundation NOISE, another modlist with enhanced graphics, mechanics, and immersion. The general idea is to mantain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of, Requiem+.
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
 ## Getting Started
 
-This process requires `107`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
+This process requires `113`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
 
 Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/2ez4dAV) channel in the [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
 Create a folder at the root of your drive called Wabbajack. Place the Wabbajack.exe in this folder. i.e., `C:\Wabbajack\`
 
-### Upgrading from previous versions of NOISE:
+### Upgrading from previous versions of NOIR:
 
 Wabbajack now supports in-place upgrades, however, anything that doesn’t match the modlist will be deleted. If you’ve added your own mods, back them up to be safe. 
 
-Delete Nice Overall Improvement SE.wabbajack from the C:\Wabbajack\downloaded_mod_lists\ folder. Select NOISE from the Wabbajack UI modlist browser, and redownload. 
+Overwrite the previous NOIR.wabbajack installer with the new one and run the installer with the new one.
 
-Overwrite the previous installation of NOISE, after you’ve ensured you’ve backed up your saves.
+Overwrite the previous installation of NOIR, after you’ve ensured you’ve backed up your saves.
 
 You do NOT have to update unless a release is found to have a critical bug.
 
@@ -91,13 +91,14 @@ The Program Files folder is not recommended and could cause issues.
 
 ## Installation
 
-Create a new directory in the root directory of the hard drive where you want everything to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in C:\ called NOISE. You can create this folder on any drive.
+Create a new directory in the root directory of the hard drive where you want everything to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in C:\ called NOIR. You can create this folder on any drive.
 
-Open Wabbajack.
+- Open Wabbajack.
+- Select "Install From Disk"
+- Select the NOIR modlist on the field "Target Modlist" in the Wabbajack UI.
+- Select the Installation Location as the folder you created in the root directory of your hard drive. If you are creating these on your C:\ drive, please type in C:\NOIR in Installation Location and C:\NOIR\Downloads in the Download Location if you are using only this modlist. If you have other WJ's modlist installed, you can use the same Download folder and the installer will download only the missing files required for NOIR.
+- After you have completed these steps, click Begin.
 
-Select the NOISE modlist from the Wabbajack UI.
-
-At the bottom of the new window, the Installation Location will be the folder you created in the root directory of your hard drive. If you are creating these on your C:\ drive, please type in C:\NOISE in Installation Location and C:\NOISE\Downloads in the Download Location. After you have completed these steps, click Begin.
 
 **DO NOT SET THE PATHS TO YOUR SKYRIM GAME FOLDER.**
 
@@ -106,11 +107,11 @@ At the bottom of the new window, the Installation Location will be the folder yo
 A window will open in Wabbajack asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Log in, and click authorize. Wabbajack will now install the mod list for you.
 Once Wabbajack has finished all of its processes, the right pane will say Installation complete! You may exit the program. At this point it is safe to close Wabbajack.
 
-If you don’t see Installation complete, Wabbajack has encountered an error. Inside of the NOISE folder, delete everything except the downloads folder or Wabbajack.exe and the modlist file.
+If you don’t see Installation complete, Wabbajack has encountered an error. Inside of the NOIr folder, delete everything except the downloads folder.
 
 If you get an error immediately after authorizing Wabbajack on the Nexus website, download and install the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48) executable. Restart your computer and start Wabbajack again.
 
-If Wabbajack fails to download a mod, it means that the mod may have been updated on the Nexus. Wait for a new release of my Modlist. Look around in the release channel to see if I already mentioned that I'm going to update for this specific mod.
+If Wabbajack fails to download a mod, it means that the mod may have been updated on the Nexus. Wait for a new release of my Modlist. Look around in Discord channels to see if I already mentioned that I'm going to update for this specific mod. Or check the Current Release Notes in Drive folder.
 
 **Do not ask other people to share older files as this is a violation of the Nexus Terms of Service and Wabbajack’s server rules. This constitutes mod piracy and will result in an immediate ban.**
 
@@ -118,13 +119,13 @@ Expanding on server rules, **do NOT** contact outside authors such as DarkLadyLe
 
 ## Installation Part 2
 
-Now we have to copy files over into their correct spots. Navigate to `C:\NOISE\Game Folder Files\`. Copy all of these files and paste them into `C:\steamapps\common\Skyrim Special Edition\`
+Now we have to copy files over into their correct spots. Navigate to `C:\NOIR\Game Folder Files\`. Copy all of these files and paste them into `C:\steamapps\common\Skyrim Special Edition\`
 
 Follow the steps for Nvidia Profile Inspector on [Lexy's Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE) for antialiasing and capping your FPS using your GPU driver, if not using ENB. For AMD users, use ENB or set the "Frame Rate Target Control" under "Global Settings". 
 
 ### Opening Mod Organizer 2
 
-Navigate to `C:\NOISE\` and open `ModOrganizer.exe`
+Navigate to `C:\NOIR\` and open `ModOrganizer.exe`
 
 If it asks you to associate Mod Organizer 2 with nxm links, click yes.
 
@@ -134,65 +135,23 @@ In Mod Organizer 2, select SKSE from the drop down menu next to the Run button a
 
 ## Configuring MCM
 
-After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. When you’re ready, set up MCM settings and make a save before talking to the statue of Mara. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.
+After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.
 
-### Follower Framework
+[MCM](https://drive.google.com/open?id=1arfMhKhaIZMiMB4zYvWFwJvvPxGRH_CRt2HsXSf7Zdw)
 
-- Only Sandbox in Town: X
-- Mounts: Riding Support Only
-- Stealth: Extinguish Torches X
-
-### Immersive Horses
-
-- Standing Activation Action: Ride
-- Sneaking Activation Action: Open Inventory
-- Mounted Activation Action: Dismount
-- Disable Trample Effect
-
-### Immersive HUD
-
-- Activation: Keypress toggles: X
-
-### SKYUI
-
-- Advanced: Disable all SWF Version Checking
-
-### Violens
-
-- Player Killmove Immunity: Enabled
-
-Keep Advancing Killmoves to OFF. This can cause your character to become stuck in the terrain/walls/etc.
-
-
-### Thieves Guild Requirements
-
-Items Stolen: 100
-
-Radiant jobs completed: 6, 15
-
-
-### Realistic Water 2 Settings
-
-  Kynesgrove X
-
-  Rorikstead X
-
-All other MCM settings can be configured as you like, or depending on extra mods you’ve installed.
-
-**Smilodon’s and Obsidian Weathers configurations are powers. Set to your playstyle/preference.**
 
 Alternate DynDOLOD Settings
 ---------------------------
 
-By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D and thus still have some pop in. If you would like to remove as much of this pop in as possible follow these instructions. Please note that doing this will cost you a significant chunk of performance (about 10 frames). This is not recommended if you're also using an ENB unless you have 8GB of VRAM.
+By default, NOIR comes packed with premade LOD's. However, these LOD's are 2D and thus still have some pop in. If you would like to remove as much of this pop in as possible follow these instructions. Please note that doing this will cost you a significant chunk of performance (about 10 frames). This is not recommended if you're also using an ENB unless you have 8GB of VRAM.
 
-1.  Deactivate the mod "NOISE - Dyndolod Output" in the left pane of MO2
+1.  Deactivate the mod "NOIR - Dyndolod Output" and "NOIR - TexGen Output" in the left pane of MO2
 2.  Open up your install folder and navigate to `tools\DynDOLOD\Edit Scripts\DynDOLOD\cache`
 3.  If there are files other than becauseofreasons.txt delete them. Ensure that becauseofreasons.txt remains there.
 4.  Go back one folder so you're in `tools\DynDOLOD\Edit Scripts\DynDOLOD`
 5.  Open up DynDOLOD_SSE.ini in a text editor like notepad
 6.  Scroll down to the line that says TreeLOD=1 and change it to 0
-7.  Open MO2 and run TexGen
+7.  Open MO2 and run TexGen and create a mod called "NOIR - TexGen Output (3D)" and activate it
 8.  Ensure that LOD Texture Size is 512
 9.  Run it
 10. Exit the program and run DynDOLOD
@@ -208,9 +167,9 @@ By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D a
 15. Click start - this process takes about 30 minutes depending on hardware
 16. Once it's done make sure the log says it's complete and then hit "Save and Exit"
 17. Navigate to where you set the output folder before and open it
-18. Copy all of its contents and put it into the NOISE - Dyndolod Output mod
+18. Copy all of its contents and put it into a new mod called "NOIR - Dyndolod Output (3D)"
 19. Overwrite when asked
-20. Reactivate NOISE - Dyndolod Output and move DynDOLOD.esm just above FISS.esp
+20. Activate "NOIR - Dyndolod Output (3D)" and move DynDOLOD.esm just above FISS.esp
 
 ## Resources
 
@@ -222,7 +181,7 @@ To learn more about Mod Organizer 2, please [watch this video](https://www.youtu
 
 2.  Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers. 
 
-I use Re-Engaged for Obsidian on my personal installation, ENB is not included with NOISE.
+I use Re-Engaged for Obsidian on my personal installation, ENB is not included with NOIR.
 
 ## Adding ReShade:
 
@@ -236,7 +195,9 @@ I use Re-Engaged for Obsidian on my personal installation, ENB is not included w
 
 ## The difficulty is too hard/easy!
 
--   Use the difficulty slider in options, configure Smilodon's Power.
+-   That's Requiem for you, but you will get used to, check this tips:
+https://www.reddit.com/r/skyrimrequiem/comments/fbvc1r/guide_how_to_build_your_first_character_in/
+https://www.reddit.com/r/skyrimrequiem/comments/fdsz4y/guide_how_to_adapt_my_gameplay_for_requiem/
 
 ## The dungeons are too dark!
 -   What dungeons, realistically, aren't dark? Hold "E" to turn on your lantern.
@@ -255,6 +216,10 @@ I use Re-Engaged for Obsidian on my personal installation, ENB is not included w
 
 Credits & Thanks
 ----------------
+
+-   Shelb for letting me use her modlist as a base to build upon and all her support.
+
+And the same credit for NOISE apply:
 
 -   DarkLadyLexy for instructions on Distant Land, LOOT, Merging, and the Finishing Line.
 -   Halgari for creating [Wabbajack](https://github.com/halgari/wabbajack)
