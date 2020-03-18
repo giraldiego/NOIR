@@ -6,7 +6,7 @@ NOIR
 
 [Changelog](https://drive.google.com/open?id=1k5D8ccTMw-L-WZ3G8gjjZQsicsVRXf6Y)
 
-NOIR is a modlist for playing Requiem 3.4 using as foundation NOISE, another modlist with enhanced graphics, mechanics, and immersion. The general idea is to mantain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of, Requiem+.
+NOIR is a modlist for playing Requiem 3.4 using as foundation NOISE, another modlist with enhanced graphics, mechanics, and immersion. The general idea is to maintain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of, Requiem+.
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
