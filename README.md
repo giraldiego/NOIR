@@ -193,7 +193,7 @@ I use Re-Engaged for Obsidian on my personal installation, ENB is not included w
 
 [Wabbajack Discord FAQ](https://discord.gg/qz9a2J)
 
-## The difficulty is too hard/easy!
+## The difficulty is too hard!
 
 That's Requiem for you, but you will get used to, check this tips:
 -   https://www.reddit.com/r/skyrimrequiem/comments/fbvc1r/guide_how_to_build_your_first_character_in/
