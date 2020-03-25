@@ -218,6 +218,8 @@ Credits & Thanks
 ----------------
 
 -   Shelb for letting me use her modlist as a base to build upon and all her support.
+-   Total for let me use his music compilation in NOIR and tips for the build
+-   lilmoefow for all the patches and support for Requiem in SSE
 
 And the same credit for NOISE apply:
 
@@ -228,7 +230,7 @@ And the same credit for NOISE apply:
 -   Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD. [https://thephoenixflavour.com/](https://thephoenixflavour.com/) 
 -   [Phoenix's Patreon](https://www.patreon.com/thephoenixflavour)
 
-### Contributors
+### Contributors of NOISE
 
 -   Total for helping me pick out landscape textures, assisting me with xEdit
 -   Helidoc for taking over and maintaining NOISE for DoubleDog
