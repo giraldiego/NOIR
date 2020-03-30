@@ -4,9 +4,11 @@ NOIR
 
 [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
-[Changelog](https://drive.google.com/open?id=1k5D8ccTMw-L-WZ3G8gjjZQsicsVRXf6Y)
+[Changelog](https://github.com/giraldiego/NOIR/blob/master/CHANGELOG.md)
 
-NOIR is a modlist for playing Requiem 3.4 using as foundation NOISE, another modlist with enhanced graphics, mechanics, and immersion. The general idea is to maintain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of, Requiem+.
+NOIR is a modlist for playing Requiem 3.4 that used as foundation NOISE, another modlist.
+With enhanced graphics, mechanics, and immersion, the general idea is to maintain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of Requiem+.
+
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
@@ -195,9 +197,14 @@ I use Re-Engaged for Obsidian on my personal installation, ENB is not included w
 
 ## The difficulty is too hard!
 
-That's Requiem for you, but you will get used to, check this tips:
--   https://www.reddit.com/r/skyrimrequiem/comments/fbvc1r/guide_how_to_build_your_first_character_in/
--   https://www.reddit.com/r/skyrimrequiem/comments/fdsz4y/guide_how_to_adapt_my_gameplay_for_requiem/
+That's Requiem for you, but you will get used to, check these guides:
+
+- [Guide - How to adapt my gameplay for Requiem ?](https://www.reddit.com/r/skyrimrequiem/comments/fdsz4y/guide_how_to_adapt_my_gameplay_for_requiem/)
+
+- [Guide - How to build your first character in Requiem - part I](https://www.reddit.com/r/skyrimrequiem/comments/fbvc1r/guide_how_to_build_your_first_character_in/)
+
+- [Guide - How to build your first character in Requiem - part II](https://www.reddit.com/r/skyrimrequiem/comments/fchelx/guide_how_to_build_your_first_character_in/)
+
 
 ## The dungeons are too dark!
 -   What dungeons, realistically, aren't dark? Hold "E" to turn on your lantern.
@@ -220,6 +227,7 @@ Credits & Thanks
 -   Shelb for letting me use her modlist as a base to build upon and all her support.
 -   Total for let me use his music compilation in NOIR and tips for the build
 -   lilmoefow for all the patches and support for Requiem in SSE
+-   JDSmith for tips about how to patch things correctly
 
 And the same credit for NOISE apply:
 
