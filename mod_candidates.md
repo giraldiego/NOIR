@@ -1,12 +1,10 @@
 # Mods to Review:
 
-OK, NO PATCH: 
-
 [snbcj's mods](https://www.nexusmods.com/skyrim/users/4091255?tab=user+files)
 
-[Atlas Map Markers SE with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104)  OK, NEED_PATCH(before ELE. also re-run DynDOLOD)
+[Atlas Map Markers SE with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104)  :  OK, NEED_PATCH(before ELE. also re-run DynDOLOD)
 
-Beautiful Honey Signs - 2K Overhaul - 1K Optional
+[Beautiful Honey Signs - 2K Overhaul - 1K Optional](https://www.nexusmods.com/skyrimspecialedition/mods/1269) : Nice, maybe the 1K version
 
 BodySlide and Outfit Studio
 
@@ -16,11 +14,11 @@ Cloaks of the Nords
 
 Covered Carriages
 
-Creepier Daedric Princes
+[Creepier Daedric Princes](https://www.nexusmods.com/skyrimspecialedition/mods/15854?tab=description) : It looks nice
 
-Daedratastic Rune Spells
+[Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?)  : It looks nice
 
-[Dreams and Nightmares Music Mod for Yggdrasil](https://www.nexusmods.com/skyrim/mods/97486)    NULL, It is already included
+[Dreams and Nightmares Music Mod for Yggdrasil](https://www.nexusmods.com/skyrim/mods/97486)  : NULL, It is already included
 
 Even Better Ice Wraiths – Completely Redone
 
@@ -28,9 +26,9 @@ Even Better Ice Wraiths – Completely Redone
 
 [Finally First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)   OK, NO_PATCH
 
-Frozen Electrocuted Combustion
+[Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532)  : It has scripts, no save friendly
 
-Holy Wards
+[Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535) : Nice
 
 Improved Sparks
 
@@ -42,9 +40,9 @@ Luminescent Luna Moths
 
 Oblivionesque Category Icons For SkyUI SE
 
-Quieter Dungeons and Caves
+[Quieter Dungeons and Caves](https://www.nexusmods.com/skyrimspecialedition/mods/1320)  : 
 
-Realistic Conversations
+[Realistic Conversations](https://www.nexusmods.com/skyrimspecialedition/mods/1717/?) : It seems Ok, it claims to be script free
 
 RS Children
 
