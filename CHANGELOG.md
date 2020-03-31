@@ -10,6 +10,11 @@ Fixing bugs as they are being reported.
 
 **Changes**:
 
+- Added [Extended UI SSE](https://www.nexusmods.com/skyrim/mods/57873/?) OK, NO_PATCH
+- Added [Finally First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
+- Added [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/)
+- Added [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=description)
+- Added [Unread Books Glow](https://www.nexusmods.com/skyrimspecialedition/mods/1296)
 - Fixed a misplaced pot in WinkingSkeever on Distinct Interiors mod
 - Disabled Vanilla Start in ASLAL (some user reported not working)
 - Increased Friend and Ally hits allowed in combat to 2 (Requiem default is 1)
