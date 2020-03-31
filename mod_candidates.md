@@ -4,7 +4,7 @@ OK, NO PATCH:
 
 [snbcj's mods](https://www.nexusmods.com/skyrim/users/4091255?tab=user+files)
 
-[Atlas Map Markers SE with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104)  OK, NO_PATCH(before ELE)
+[Atlas Map Markers SE with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104)  OK, NEED_PATCH(before ELE. also re-run DynDOLOD)
 
 Beautiful Honey Signs - 2K Overhaul - 1K Optional
 
@@ -48,7 +48,7 @@ Realistic Conversations
 
 RS Children
 
-[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=description)   OK, NO_PATCH (before ELE)
+[Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=description)   OK, NO_PATCH (before ELE, it conflicts in one record with RDO)
 
 SkyTEST Animals
 
