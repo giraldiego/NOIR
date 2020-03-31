@@ -8,9 +8,9 @@ If you want to try a different experience system, enable these three mods in MO2
 
 If you want the default Skyrim/Requiem experience system, let them disabled.
 
-    In Summary, you won’t level up for skill, but for quests, exploration and killing.
-    I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up. 
-    Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding.
+- In Summary, you won’t level up for skill, but for quests, exploration and killing.
+- I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up. 
+- Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding.
 
 Check the tweaks I made in the .ini files for these mods.
 
