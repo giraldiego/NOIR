@@ -10,7 +10,7 @@ Fixing bugs as they are being reported.
 
 **Changes**:
 
-- Added [Extended UI SSE](https://www.nexusmods.com/skyrim/mods/57873/?) OK, NO_PATCH
+- Added [Extended UI SSE](https://www.nexusmods.com/skyrim/mods/57873/?)
 - Added [Finally First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 - Added [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/)
 - Added [Realistic Conversations - No Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1717/?)
