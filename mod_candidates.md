@@ -14,9 +14,9 @@ Cloaks of the Nords
 
 Covered Carriages
 
-[Creepier Daedric Princes](https://www.nexusmods.com/skyrimspecialedition/mods/15854?tab=description) | `It looks nice`
+[Creepier Daedric Princes](https://www.nexusmods.com/skyrimspecialedition/mods/15854?tab=description) | `OK, NO_PATCH`
 
-[Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?)  | `It looks nice`
+[Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?)  | `OK, NO_PATCH`
 
 [Dreams and Nightmares Music Mod for Yggdrasil](https://www.nexusmods.com/skyrim/mods/97486)  | `NULL, It is already included`
 
@@ -28,7 +28,7 @@ Even Better Ice Wraiths – Completely Redone
 
 [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532)  | `It has scripts, no save friendly`
 
-[Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535) | `Nice`
+[Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535) | `OK, NO_PATCH`
 
 Improved Sparks
 

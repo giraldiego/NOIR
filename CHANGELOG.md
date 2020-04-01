@@ -3,7 +3,7 @@
 
 ## Next Release (1.2.3.5)
 
-**Released at**: `???-??-2020`
+**Released at**: `Apr-??-2020`
 
 **Info**:
 Fixing bugs as they are being reported.
@@ -13,20 +13,25 @@ Fixing bugs as they are being reported.
 - Added [Extended UI SSE](https://www.nexusmods.com/skyrim/mods/57873/?) OK, NO_PATCH
 - Added [Finally First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 - Added [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/)
+- Added [Realistic Conversations - No Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1717/?)
 - Added [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=description)
 - Added [Unread Books Glow](https://www.nexusmods.com/skyrimspecialedition/mods/1296)
+- Added [Creepier Daedric Princes](https://www.nexusmods.com/skyrimspecialedition/mods/15854?tab=description)
+- Added [Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?) 
+- Added [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332)
+- Added [Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535)
+
 - Fixed a misplaced pot in WinkingSkeever on Distinct Interiors mod
 - Disabled Vanilla Start in ASLAL (some user reported not working)
+- Disabled Import option for Inigo, Hoth and Lucien (not safe)
 - Increased Friend and Ally hits allowed in combat to 2 (Requiem default is 1)
 - Changed load order for NWSFollowerFramework to stop the warning message.
-
+- Tweaked Experience.ini to take in account future inclusión of Atlas - Map Markers increase in discovereable places `iXPDiscOther=0`
 - Reverted the following to avoid CDT with Lod and Honed Metal in Markarth (read documentation):
-
-skse\plugins\EngineFixes.ini:
-
-    [Experimental]
-
-    MemoryManager = false
+```skse\plugins\EngineFixes.ini:
+[Experimental]
+MemoryManager = false
+```
 
 ## 1.2.3.4
 
