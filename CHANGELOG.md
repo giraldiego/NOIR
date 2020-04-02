@@ -17,18 +17,18 @@ Fixing bugs as they are being reported.
 - Added [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=description)
 - Added [Unread Books Glow](https://www.nexusmods.com/skyrimspecialedition/mods/1296)
 - Added [Creepier Daedric Princes](https://www.nexusmods.com/skyrimspecialedition/mods/15854?tab=description)
-- Added [Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?) 
+- Added [Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?)
 - Added [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332)
 - Added [Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535)
 - Added [Beautiful Honey Signs - 2K Overhaul - 1K Optional](https://www.nexusmods.com/skyrimspecialedition/mods/1269)
-
-- Added [Requiem - Dragonborn - Alternative Descriptions]
-- Added [Noxcrab's Tweaks]
-
+- Added [Requiem - Dragonborn - Alternative Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/33663)
+- Added [Noxcrab's Tweaks](https://www.nexusmods.com/skyrim/mods/78134)
+  
+- Enabled the use of Circlets and Masks with all Robes and Hoods
 - Fixed a misplaced pot in WinkingSkeever on Distinct Interiors mod
-- Disabled Vanilla Start in ASLAL (some user reported not working)
-- Disabled Vampire Start in ASLAL (some user reported not working)
+- Disabled Vanilla and Vampire Start in ASLAL (some user reported not working)
 - Disabled Surprise me! Start in ASLAL (to avoid the two above)
+- Disabled Vanity Mirror in Prison Cell (it lets you change race and that's not recommended in Requiem)
 - Disabled Import option for Inigo, Hoth and Lucien in NFW (not safe)
 - Increased Friend and Ally hits allowed in combat to 2 (Requiem default is 1)
 - Changed load order for NWSFollowerFramework to stop the warning message.
