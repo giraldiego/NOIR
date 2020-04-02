@@ -30,7 +30,9 @@ Even Better Ice Wraiths – Completely Redone
 
 [Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535) | `OK, NO_PATCH`
 
-Improved Sparks
+[Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831)
+also
+[Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936?)
 
 [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994)  | `NEED_PATCH (MID, probably need to be reqtified)`
 
