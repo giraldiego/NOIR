@@ -10,6 +10,8 @@ Fixing bugs as they are being reported.
 
 **Changes**:
 
+- Updated [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017) to 2.1.03
+  
 - Added [Extended UI SSE](https://www.nexusmods.com/skyrim/mods/57873/?)
 - Added [Finally First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 - Added [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/)
