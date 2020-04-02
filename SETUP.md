@@ -1,5 +1,13 @@
 # NOIR SETUP
 
+## MO2 Setup
+
+1. Open ModOrganizer and select a profile you want to use as your basis
+2. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
+12. This is to have the list sorted in the way it was intended by me.
+14. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+15. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
+
 ## Experience XP System (experimental)
 
 If you want to try a different experience system, enable these three mods in MO2:
@@ -15,6 +23,8 @@ If you want the default Skyrim/Requiem experience system, let them disabled.
 Check the tweaks I made in the .ini files for these mods.
 
 ## In-Game MCM Options
+
+After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.
 
 Notes indicate settings to change, if not specified leave as default, also be aware these are my personal settings, I have copied them from Lexy’s, TSO, NOISE, Lotus and STEP guides. So you can choose your owns.
 
