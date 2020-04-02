@@ -1,7 +1,7 @@
 
 # Changelog
 
-## Next Release (1.2.3.5)
+## 1.2.3.5
 
 **Released at**: `Apr-2-2020`
 
