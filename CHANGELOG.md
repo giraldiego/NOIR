@@ -3,7 +3,7 @@
 
 ## Next Release (1.2.3.5)
 
-**Released at**: `Apr-??-2020`
+**Released at**: `Apr-2-2020`
 
 **Info**:
 Fixing bugs as they are being reported.
