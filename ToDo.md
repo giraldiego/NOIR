@@ -13,7 +13,9 @@
 Add:
 - MoreBanditCamps
 - Realistic AI Detection 2 SE - Medium Interior, Medium Exterior
-
+- [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
+- Add Heritage
+  
 **Brainstorming**
 
 *Next things to change:*
@@ -24,7 +26,7 @@ Add:
 - Add a Conjuration Perk Overhaul 
 - Merge some of the patches to have less clutter (most of them are esl so it is not that urgent)
 - Maybe get rid of the bashed patch
-- Add Heritage
+
 
 - Use Blood Enhanced scriptless
 - Beautiful Orcs
