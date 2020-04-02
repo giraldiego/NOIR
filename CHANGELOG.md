@@ -31,7 +31,7 @@ Fixing bugs as they are being reported.
 - Disabled Vanilla and Vampire Start in ASLAL (some user reported not working)
 - Disabled Surprise me! Start in ASLAL (to avoid the two above)
 - Disabled Vanity Mirror in Prison Cell (it lets you change race and that's not recommended in Requiem)
-- Disabled Import option for Inigo, Hoth and Lucien in NFW (not safe)
+- Disabled Import option for Inigo, Hoth and Lucien in NFF (not safe)
 - Increased Friend and Ally hits allowed in combat to 2 (Requiem default is 1)
 - Changed load order for NWSFollowerFramework to stop the warning message.
 - Tweaked Experience.ini to take in account future inclusión of Atlas - Map Markers increase in discovereable places `iXPDiscOther=0`
