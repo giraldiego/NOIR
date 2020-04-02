@@ -15,7 +15,18 @@ Add:
 - Realistic AI Detection 2 SE - Medium Interior, Medium Exterior
 
 **Brainstorming**
-- Blood scriptless
+
+*Next things to change:*
+- Add The Ultimate Dodge Mod
+- Add Growl
+- Add a Vampire Overhaul
+- Add a magic overhaul like Mysticism
+- Add a Conjuration Perk Overhaul 
+- Merge some of the patches to have less clutter (most of them are esl so it is not that urgent)
+- Maybe get rid of the bashed patch
+- Add Heritage
+
+- Use Blood Enhanced scriptless
 - Beautiful Orcs
 - Less tedious thieves guild
 - Add Arisa
@@ -27,7 +38,7 @@ From Patch Central:
 - Immersive Patrols
 - Vampiric Thirst
 
-Interesting mods:
+More Interesting mods:
 
 - ForgottenCity.esp
 - Tools of Kagrenac.esp
