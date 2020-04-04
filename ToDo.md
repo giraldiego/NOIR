@@ -24,6 +24,7 @@
 - Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
 - Add [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
+- Add [Dynamic Things - Woodpiles and Barrels and More Oh My](https://www.nexusmods.com/skyrimspecialedition/mods/19520)
 
 ## Brainstorming
 
