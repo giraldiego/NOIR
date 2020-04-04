@@ -15,19 +15,19 @@
 - Added [More Vanilla Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/28205)
 - Added [Eradicate This Face (ETFF)-SE](https://www.nexusmods.com/skyrimspecialedition/mods/17535)
 - Added [Realistic AI Detection 2 SE - Medium Interior, Medium Exterior](https://www.nexusmods.com/skyrimspecialedition/mods/2345)
-- Fixed not inclusion of Skyrim Uncapper.ini in the previous modlist version
+- Added [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
 
 ## On Queque
 
-- [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
-- Add Heritage
+- Fix not inclusion of Skyrim Uncapper.ini in the previous modlist version
+- Use a neutral voice for the dragon soul absorbtion mod
+- Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
+- Add [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
 
 ## Brainstorming
 
 *Next things to change:*
-
-- Use a neutral voice for the dragon soul absorbtion mod
 - Add The Ultimate Dodge Mod
 - Add Growl
 - Add a Vampire Overhaul
@@ -41,7 +41,6 @@
 - Add Arisa
 - Add Vilja
 - Equipment Durability System
-- All Thieves Guild Jobs Concurrently
 - Less Tedious Thieves Guild
 - Obscure's College of Winterhold
 - More Werewolves
