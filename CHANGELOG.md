@@ -10,17 +10,15 @@ Fixing bugs as they are being reported.
 
 **Changes**:
 
-- Updated [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017) to 2.1.03
-  
+- Updated [LeanWolf's Better-Shaped Weapons SE](https://www.nexusmods.com/skyrimspecialedition/mods/2017) to 2.1.03  
 - Added [Extended UI SSE](https://www.nexusmods.com/skyrim/mods/57873/?)
 - Added [Finally First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
-- Added [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/)
+- Added [No Disarm (Unequip Instead)](https://www.nexusmods.com/skyrimspecialedition/mods/27188/) (This mechanic is buggy and unfair for DiD players in Requiem)
 - Added [Realistic Conversations - No Greetings](https://www.nexusmods.com/skyrimspecialedition/mods/1717/?)
 - Added [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=description)
 - Added [Unread Books Glow](https://www.nexusmods.com/skyrimspecialedition/mods/1296)
 - Added [Creepier Daedric Princes](https://www.nexusmods.com/skyrimspecialedition/mods/15854?tab=description)
 - Added [Daedratastic Rune Spells](https://www.nexusmods.com/skyrimspecialedition/mods/6359/?)
-- Added [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332)
 - Added [Holy Wards](https://www.nexusmods.com/skyrimspecialedition/mods/18535)
 - Added [Beautiful Honey Signs - 2K Overhaul - 1K Optional](https://www.nexusmods.com/skyrimspecialedition/mods/1269)
 - Added [Requiem - Dragonborn - Alternative Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/33663)
@@ -36,6 +34,7 @@ Fixing bugs as they are being reported.
 - Changed load order for NWSFollowerFramework to stop the warning message.
 - Tweaked Experience.ini to take in account future inclusión of Atlas - Map Markers increase in discovereable places `iXPDiscOther=0`
 - Reverted the following to avoid CDT with Lod and Honed Metal in Markarth (read documentation):
+
 ```skse\plugins\EngineFixes.ini:
 [Experimental]
 MemoryManager = false
@@ -78,27 +77,30 @@ This is the initial release of the modlist based on NOISE 2.1.2.
 
 Added mods:
 
-    +Immersive Animations
-    +Dual Wield Improved Animation SSE
-    +Blocking Animation Pack SSE
-    +360 Walk and Run Plus
-    +Cinematic Dragon Soul Absorbtion
-    +Nemesis
-    +Baka Haeun UNP
-    +Immersive CBP Config
-    +CBPC - CBP Physics with Collisions
-    +HDT-SMP (Skinned Mesh Physics)
-    +XP32 Maximum Skeleton Special Extended
-    +UNP Blessed Body
-    +TMB Vanilla Armors and Clothes SSE (Vanilla Style)
-    +Feminine Khajiit Textures (Grey Cat and Leopard) [UNP]
-    +[Cover Khajiits]
-    +Immersive Dragons
-    +Predator Vision - Night Eye and Thermal Vision Overhaul
-    +Equipment HUD SE
-    +3PCO - 3rd Person Camera Overhaul
-    +Skyrim Save System Overhaul
-    +Cooking Pots in Inns
-    +Lucien
-    +Hoth
-    +Unique Uniques SE
+```+Immersive Animations
++Dual Wield Improved Animation SSE
++Blocking Animation Pack SSE
++360 Walk and Run Plus
++Cinematic Dragon Soul Absorbtion
++Nemesis
++Baka Haeun UNP
++Immersive CBP Config
++CBPC - CBP Physics with Collisions
++HDT-SMP (Skinned Mesh Physics)
++XP32 Maximum Skeleton Special Extended
++UNP Blessed Body
++TMB Vanilla Armors and Clothes SSE (Vanilla Style)
++Feminine Khajiit Textures (Grey Cat and Leopard) [UNP]
++[Cover Khajiits]
++Immersive Dragons
++Predator Vision - Night Eye and Thermal Vision Overhaul
++Equipment HUD SE
++3PCO - 3rd Person Camera Overhaul
++Skyrim Save System Overhaul
++Cooking Pots in Inns
++Lucien
++Hoth
++Unique Uniques SE
+```
+
+[OLD CHANGELOG](https://drive.google.com/open?id=1k5D8ccTMw-L-WZ3G8gjjZQsicsVRXf6Y)
