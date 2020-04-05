@@ -2,15 +2,17 @@
 
 ## Current issues (v1.2.3.5)
 
-- more informative console is not working, solution: move Extended UI SSE before it, so it doesn't overwrite the conflicting file 
+- More informative console has conflict with E-UI, solution: move Extended UI SSE before it, so it doesn't overwrite the conflicting file when you want to use the console, otherwise, let it alone.
+- NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
+- To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 
 ## MO2 Setup
 
 1. Open ModOrganizer and select a profile you want to use as your basis
-2. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
-12. This is to have the list sorted in the way it was intended by me.
-14. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-15. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
+1. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
+1. This is to have the list sorted in the way it was intended by me.
+1. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+1. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
 
 ## Experience XP System (experimental)
 
@@ -21,10 +23,14 @@ If you want to try a different experience system, enable these three mods in MO2
 If you want the default Skyrim/Requiem experience system, let them disabled.
 
 - In Summary, you won’t level up for skill, but for quests, exploration and killing.
-- I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up. 
+- I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up.
 - Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding.
 
 Check the tweaks I made in the .ini files for these mods.
+
+### Optional plugins
+
+- In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired.
 
 ## In-Game MCM Options
 
@@ -197,6 +203,8 @@ Options
 ![image](images/image4.png)
 
 ### SSSO
+
+**VERY IMPORTANT:** Assign a *Manual Save Key* and from now on use it to save your game (don't use the menu anymore).
 
 *Rotating Automatic Save* - `Enabled`
 
