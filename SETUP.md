@@ -1,5 +1,9 @@
 # NOIR SETUP
 
+## Current issues (v1.2.3.5)
+
+- more informative console is not working, solution: move Extended UI SSE before it, so it doesn't overwrite the conflicting file 
+
 ## MO2 Setup
 
 1. Open ModOrganizer and select a profile you want to use as your basis

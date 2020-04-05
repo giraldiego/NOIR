@@ -19,8 +19,13 @@
 
 ## On Queque
 
+- Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
+- Review [Pick Your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710)
+- Backstab in Wildcats maybe OP
+- Check overwrite on more informative console
+- Check about Particle Patch not needed
 - Fix not inclusion of Skyrim Uncapper.ini in the previous modlist version
-- Use a neutral voice for the dragon soul absorbtion mod
+- Use a neutral voice for the dragon soul cinematic mod
 - Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
 - Add [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
@@ -29,6 +34,7 @@
 ## Brainstorming
 
 *Next things to change:*
+
 - Add The Ultimate Dodge Mod
 - Add Growl
 - Add a Vampire Overhaul
