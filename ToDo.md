@@ -19,6 +19,7 @@
 
 ## On Queque
 
+- Add [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
 - Review [Pick Your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710)
 - Backstab in Wildcats maybe OP
@@ -47,7 +48,6 @@
 - Maybe [Less tedious thieves guild](https://www.nexusmods.com/skyrimspecialedition/mods/6581)
 - Add Arisa
 - Add Vilja
-- Equipment Durability System
 - Less Tedious Thieves Guild
 - Obscure's College of Winterhold
 - More Werewolves
