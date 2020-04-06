@@ -7,3 +7,7 @@ _SRE_EncAlchemistBandit02BossTemplate "Skooma Baron" [NPC_:08511677]
 This Boss is not following the pattern found in other Alchemist Bosses in where they reffer to the common template for the tier. 
 i.e Every other Alchemist Boss uses as template the Alchemist Tier Template which it seems to be an Archer. This one it defines
 its attributes it self. Is this intended?
+
+_SRE_EncAlchemistBandit03BossDarkElfM "Skooma Baron" [NPC_:083079F7]
+
+Doesn't follow the pattern either.
