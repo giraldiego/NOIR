@@ -149,7 +149,9 @@ Compass Activation
 
 - Key press toggles - Enabled
 
-- Disable Stealth
+**Options**
+
+- Stealth Indicator Enabled - Disabled
 
 ### MoreHud SE
 

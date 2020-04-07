@@ -2,6 +2,9 @@
 
 ## To Change in next version
 
+- Added [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+- 
+
 ## On Queque
 
 - Review [Skyrim Unlocked](https://www.nexusmods.com/skyrim/mods/69420)
