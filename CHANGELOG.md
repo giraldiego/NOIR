@@ -1,6 +1,35 @@
 
 # Changelog
 
+## 1.3
+
+**Released at**: `Apr-7-2020`
+
+**Info**:
+This version includes snbcj's rebalances to Requiem, a new save is required.
+
+**Changes**:
+
+- Updated Nexus' SSE [Requiem - Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/27292)
+- Updated [Requiem - Dragonborn - Alternative Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/33663)
+- Added [Requiem - Minor Arcana SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25843?tab=files)
+- Added [Requiem - Immersive Abilities 1.3](https://www.nexusmods.com/skyrim/mods/96880)
+- Added [Requiem - Immersive Divine Blessings 1.31](https://www.nexusmods.com/skyrim/mods/88988)
+- Added [Requiem - Standing Stone Rebalance 3.6](https://www.nexusmods.com/skyrim/mods/88988)
+- Added [Racial Body Morphs SE - Diverse body types and height by Race and Gender](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
+- Added [Circlets or Masks with all Robes and Hoods](https://www.nexusmods.com/skyrimspecialedition/mods/3732)
+- Added [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994)
+- Added [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332)
+- Added [More Vanilla Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/28205)
+- Added [Eradicate This Face (ETFF)-SE](https://www.nexusmods.com/skyrimspecialedition/mods/17535)
+- Added [Realistic AI Detection 2 SE - Medium Interior, Medium Exterior](https://www.nexusmods.com/skyrimspecialedition/mods/2345)
+- Added [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
+- Reverted ini edit on SSE Engine Fixes
+- Added [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023)
+- Added [Pick Your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710)
+- Disabled more informative console in order to use Extended UI, but you can activate it anytime for debbuging purposes.
+- Fixed not inclusion of Skyrim Uncapper.ini in the previous modlist version
+  
 ## 1.2.3.5
 
 **Released at**: `Apr-2-2020`

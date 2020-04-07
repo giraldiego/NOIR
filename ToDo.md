@@ -1,36 +1,21 @@
 # ToDo
 
-## To Change in 1.3
-
-- Use Nexus' SSE [Requiem - Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/27292)
-- Update [Requiem - Dragonborn - Alternative Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/33663)
-- Added [Requiem - Minor Arcana SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25843?tab=files)
-- Added [Requiem - Immersive Abilities 1.3](https://www.nexusmods.com/skyrim/mods/96880)
-- Added [Requiem - Immersive Divine Blessings 1.31](https://www.nexusmods.com/skyrim/mods/88988)
-- Added [Requiem - Standing Stone Rebalance 3.6](https://www.nexusmods.com/skyrim/mods/88988)
-- Added [Circlets or Masks with all Robes and Hoods](https://www.nexusmods.com/skyrimspecialedition/mods/3732)
-- Added [Racial Body Morphs SE - Diverse body types and height by Race and Gender](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
-- Added [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994)
-- Added [Floating Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14332)
-- Added [More Vanilla Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/28205)
-- Added [Eradicate This Face (ETFF)-SE](https://www.nexusmods.com/skyrimspecialedition/mods/17535)
-- Added [Realistic AI Detection 2 SE - Medium Interior, Medium Exterior](https://www.nexusmods.com/skyrimspecialedition/mods/2345)
-- Added [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
+## To Change in next version
 
 ## On Queque
 
-- Add [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023)
+- Review [Skyrim Unlocked](https://www.nexusmods.com/skyrim/mods/69420)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
-- Review [Pick Your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710)
+- Review [Realistic Swimming AND Drowning](https://www.nexusmods.com/skyrimspecialedition/mods/26735)
+- Review [Honed Metal Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
 - Backstab in Wildcats maybe OP
-- Check overwrite on more informative console
 - Check about Particle Patch not needed
-- Fix not inclusion of Skyrim Uncapper.ini in the previous modlist version
 - Use a neutral voice for the dragon soul cinematic mod
 - Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
 - Add [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
 - Add [Dynamic Things - Woodpiles and Barrels and More Oh My](https://www.nexusmods.com/skyrimspecialedition/mods/19520)
+- Review updates for [Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621/)
 
 ## Brainstorming
 
@@ -40,7 +25,7 @@
 - Add Growl
 - Add a Vampire Overhaul
 - Add a magic overhaul like Mysticism
-- Add a Conjuration Perk Overhaul 
+- Add a Conjuration Perk Overhaul
 - Merge some of the patches to have less clutter (most of them are esl so it is not that urgent)
 - Maybe get rid of the bashed patch
 - Use Blood Enhanced scriptless
