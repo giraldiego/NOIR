@@ -29,6 +29,11 @@ This version includes snbcj's rebalances to Requiem, a new save is required.
 - Added [Pick Your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710)
 - Disabled more informative console in order to use Extended UI, but you can activate it anytime for debbuging purposes.
 - Fixed not inclusion of Skyrim Uncapper.ini in the previous modlist version
+- ini changes in skse\plugins\EngineFixes.ini:
+```[Experimental]
+MemoryManager = true (default false) read documentation
+```
+Revert if you have CDT with Lod and Honed Metal in Markarth:
   
 ## 1.2.3.5
 

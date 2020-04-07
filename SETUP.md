@@ -1,10 +1,11 @@
 # NOIR SETUP
 
-## Current issues (v1.2.3.5)
+## Current issues (v1.3)
 
-- More informative console has conflict with E-UI, solution: move Extended UI SSE before it, so it doesn't overwrite the conflicting file when you want to use the console, otherwise, let it alone.
+- More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
+- [Cinematic Dragon Soul Absorption](https://www.nexusmods.com/skyrimspecialedition/mods/12106?) was installed with a female voice, if you play a male character, reinstall the mod following [Lexy's guide instructions](https://wiki.nexusmods.com/index.php/User:Darkladylexy/ModList_Page#[Cinematic_Dragon_Soul_Absorption]).
 
 ## MO2 Setup
 
@@ -14,13 +15,13 @@
 1. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 1. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
 
-## Experience XP System (experimental)
+## Experience XP System (optional)
 
-If you want to try a different experience system, enable these three mods in MO2:
+If you want to try a different experience system, left enable these three mods in MO2:
 
 ![image](images/image1.png)
 
-If you want the default Skyrim/Requiem experience system, let them disabled.
+If you want the default Skyrim/Requiem experience system, disable them.
 
 - In Summary, you won’t level up for skill, but for quests, exploration and killing.
 - I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up.
@@ -30,7 +31,9 @@ Check the tweaks I made in the .ini files for these mods.
 
 ### Optional plugins
 
-- In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired.
+- In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired. Also Some Optional Mods have their own section at the end of the modlist order:
+  
+![image](images/optionals.PNG)
 
 ## In-Game MCM Options
 
@@ -142,6 +145,8 @@ Mounts
 Compass Activation
 
 - Key press toggles - Enabled
+
+
 
 ### MoreHud SE
 
