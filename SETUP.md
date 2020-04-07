@@ -36,7 +36,7 @@ Check the tweaks I made in the .ini files for these mods.
 
 - In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired. Also Some Optional Mods have their own section at the end of the modlist order:
   
-![image](images/optionals.PNG)
+![image](images/optionals.png)
 
 ## In-Game MCM Options
 
