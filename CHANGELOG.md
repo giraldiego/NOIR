@@ -29,6 +29,7 @@ This version includes snbcj's rebalances to Requiem, a new save is required.
 - Added [Pick Your Poison](https://www.nexusmods.com/skyrimspecialedition/mods/23710)
 - Disabled more informative console in order to use Extended UI, but you can activate it anytime for debbuging purposes.
 - Fixed not inclusion of Skyrim Uncapper.ini in the previous modlist version
+- Fixed Wolves yield a horse meat.
 - ini changes in skse\plugins\EngineFixes.ini:
 ```[Experimental]
 MemoryManager = true (default false) read documentation
