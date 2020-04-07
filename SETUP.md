@@ -1,6 +1,6 @@
 # NOIR SETUP
 
-## Current issues (v1.3)
+## Current issues v1.3
 
 - More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
@@ -10,14 +10,17 @@
 ## MO2 Setup
 
 1. Open ModOrganizer and select a profile you want to use as your basis
-1. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
-1. This is to have the list sorted in the way it was intended by me.
 1. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 1. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
 
+### *In case you messed up the modlist default order*
+
+1. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
+1. This is to have the list sorted in the way it was intended by me.
+
 ## Experience XP System (optional)
 
-If you want to try a different experience system, left enable these three mods in MO2:
+If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) a different progression system, enable these three mods in MO2:
 
 ![image](images/image1.png)
 
@@ -146,7 +149,7 @@ Compass Activation
 
 - Key press toggles - Enabled
 
-
+- Disable Stealth
 
 ### MoreHud SE
 
