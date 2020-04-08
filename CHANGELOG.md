@@ -31,10 +31,12 @@ This version includes snbcj's rebalances to Requiem, a new save is required.
 - Fixed not inclusion of Skyrim Uncapper.ini in the previous modlist version
 - Fixed Wolves yield a horse meat.
 - ini changes in skse\plugins\EngineFixes.ini:
+  
 ```[Experimental]
 MemoryManager = true (default false) read documentation
 ```
-Revert if you have CDT with Lod and Honed Metal in Markarth:
+
+Revert if you have CDT with any NPC and Honed Metal dialog.
   
 ## 1.2.3.5
 
