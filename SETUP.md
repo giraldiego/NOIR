@@ -26,11 +26,9 @@ MemoryManager = true (default false) read documentation
 
 ## Experience XP System (optional)
 
-If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) a different progression system, enable these three mods in MO2:
+If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) a different progression system, let enabled these three mods in MO2, otherwise, untick them:
 
 ![image](images/image1.png)
-
-If you want the default Skyrim/Requiem experience system, disable them.
 
 - In Summary, you won’t level up for skill, but for quests, exploration and killing.
 - I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up.
