@@ -1,6 +1,6 @@
 # NOIR SETUP
 
-## Current issues v1.3
+## Current issues v1.3.1
 
 - More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
@@ -11,7 +11,8 @@ MemoryManager = true (default false) read documentation
 ```
 
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
-- [Cinematic Dragon Soul Absorption](https://www.nexusmods.com/skyrimspecialedition/mods/12106?) was installed with a female voice, if you play a male character, reinstall the mod following [Lexy's guide instructions](https://wiki.nexusmods.com/index.php/User:Darkladylexy/ModList_Page#[Cinematic_Dragon_Soul_Absorption]).
+
+[More issues (read)](#Previous-issues)
 
 ## MO2 Setup
 
@@ -379,3 +380,18 @@ All other MCM settings can be configured as you like, or depending on extra mods
 ![image](images/image10.png)
 
 ![image](images/image3.png)
+
+# Previous issues
+
+## v1.3
+
+- More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
+- NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
+- Some users report CTDs when trying to use Honed Metal on certain Vendors, if it happens to you, change to false the following in skse\plugins\EngineFixes.ini:
+
+```[Experimental]
+MemoryManager = true (default false) read documentation
+```
+
+- To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
+- [Cinematic Dragon Soul Absorption](https://www.nexusmods.com/skyrimspecialedition/mods/12106?) was installed with a female voice, if you play a male character, reinstall the mod following [Lexy's guide instructions](https://wiki.nexusmods.com/index.php/User:Darkladylexy/ModList_Page#[Cinematic_Dragon_Soul_Absorption]).
