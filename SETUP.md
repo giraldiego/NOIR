@@ -13,7 +13,7 @@ MemoryManager = true (default false) read documentation
 
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 
-[More issues (read)](#Previous-issues)
+[Old issues (read)](#Previous-issues)
 
 ## MO2 Setup
 
