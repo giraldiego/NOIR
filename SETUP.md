@@ -41,7 +41,7 @@ Check the tweaks I made in the .ini files for these mods.
 
 - In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired. Also Some Optional Mods have their own section at the end of the modlist order:
   
-![image](images/optionals.png)
+![image](images/optionals.PNG)
 
 If you enable this optional plugins, you need to restore the NOIR loadorder (no the modlist order) in the right pane:
 
