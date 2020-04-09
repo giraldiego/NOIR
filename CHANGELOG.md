@@ -12,6 +12,7 @@ Small update due to perfomance textures update and to include Heritage and Skyri
 
 - Updated [performance optimized textures for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
 - Updated [360 Movement Behavior SE](https://www.nexusmods.com/skyrimspecialedition/mods/33139)
+- Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891)
 - Added [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
 - Added [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017) (OPTIONAL, see SETUP.md)
 - Added [Skyrim Unlocked](https://www.nexusmods.com/skyrim/mods/69420)(OPTIONAL, see SETUP.md)
