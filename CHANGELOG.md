@@ -1,6 +1,29 @@
 
 # Changelog
 
+## 1.3.1
+
+**Released at**: `Apr-09-2020`
+
+**Info**:
+Small update due to perfomance textures update and to include Heritage and Skyrim Unlocked mods as Optional.
+
+**Changes**:
+
+- Updated [performance optimized textures for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
+- Updated [360 Movement Behavior SE](https://www.nexusmods.com/skyrimspecialedition/mods/33139)
+- Added [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+- Added [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017) (OPTIONAL, see SETUP.md)
+- Added [Skyrim Unlocked](https://www.nexusmods.com/skyrim/mods/69420)(OPTIONAL, see SETUP.md)
+- Reinstalled [Cinematic Dragon Soul Absorption](https://www.nexusmods.com/skyrimspecialedition/mods/12106?) without gender specific voice.
+- Once again, ini changes in skse\plugins\EngineFixes.ini:
+  
+```[Experimental]
+MemoryManager = false
+```
+
+In order to avoid CDTs when using Honed Metal features in certain NPCs. I will let that disabled from now on.
+
 ## 1.3
 
 **Released at**: `Apr-7-2020`

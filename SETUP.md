@@ -42,6 +42,12 @@ Check the tweaks I made in the .ini files for these mods.
   
 ![image](images/optionals.png)
 
+If you enable this optional plugins, you need to restore the NOIR loadorder (no the modlist order) in the right pane:
+
+![(restore backup)](images/backup-1.png)
+
+This is to have the list sorted in the way it was intended by me.
+
 ## In-Game MCM Options
 
 After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.

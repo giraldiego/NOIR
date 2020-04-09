@@ -2,12 +2,10 @@
 
 ## To Change in next version
 
-- Added [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
-- 
-
 ## On Queque
 
-- Review [Skyrim Unlocked](https://www.nexusmods.com/skyrim/mods/69420)
+- Update Lucien to 1.50, requieres smashed patch and a new patch
+- [Update Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
 - Review [Realistic Swimming AND Drowning](https://www.nexusmods.com/skyrimspecialedition/mods/26735)
 - Review [Honed Metal Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
@@ -15,7 +13,6 @@
 - Check about Particle Patch not needed
 - Use a neutral voice for the dragon soul cinematic mod
 - Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
-- Add [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
 - Add [Dynamic Things - Woodpiles and Barrels and More Oh My](https://www.nexusmods.com/skyrimspecialedition/mods/19520)
 - Review updates for [Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621/)
