@@ -4,6 +4,7 @@
 
 ## On Queque
 
+- Test https://www.nexusmods.com/skyrimspecialedition/mods/28119
 - Update Lucien to 1.50, requieres smashed patch and a new patch
 - [Update Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
