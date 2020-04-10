@@ -4,7 +4,7 @@
 
 ## On Queque
 
-- Test https://www.nexusmods.com/skyrimspecialedition/mods/28119
+- Review https://www.nexusmods.com/skyrimspecialedition/mods/28119
 - Update Lucien to 1.50, requieres smashed patch and a new patch
 - [Update Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
@@ -12,7 +12,6 @@
 - Review [Honed Metal Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
 - Backstab in Wildcats maybe OP
 - Check about Particle Patch not needed
-- Use a neutral voice for the dragon soul cinematic mod
 - Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
 - Add [Dynamic Things - Woodpiles and Barrels and More Oh My](https://www.nexusmods.com/skyrimspecialedition/mods/19520)
