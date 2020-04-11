@@ -5,7 +5,7 @@
 - Your crosshair will dissapear when sneaking if you don't follow the MCM settings for Immersive HUD below. You won't know when you are being detected though, if you want to play with Spiderman's sense, disable Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891) in the left pane. UPDATE: A better solution is you still wanna be spiderman, use this mod instead: [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
 - More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
-- Some users report CTDs when trying to use Honed Metal on certain Vendors, if it happens to you, change to false the following in skse\plugins\EngineFixes.ini([SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod):
+- Some users report CTDs when trying to use Honed Metal on certain Vendors, if it happens to you, change to false the following in skse\plugins\EngineFixes.ini ([SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod):
 
 ```[Experimental]
 MemoryManager = true (default false) read documentation
