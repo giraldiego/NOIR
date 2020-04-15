@@ -3,7 +3,7 @@
 
 ## 1.3.3
 
-**Released at**: `Apr-??-2020`
+**Released at**: `Apr-15-2020`
 
 **Info**:
 In development...
@@ -17,6 +17,7 @@ In development...
 - Fixed some missplaced things from Crafting Locationg Improved
 - Fixed more informative console incompatibility with EUI
 - Fixed LAL quests giving XP when using Experience Mod.
+- Restore the vanity mirror to the prison cell in LAL, so you can change your look (but not your race).
 
 ## 1.3.2
 

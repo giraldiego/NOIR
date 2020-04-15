@@ -1,9 +1,9 @@
 # NOIR SETUP
 
-## Current issues v1.3.1
+## Current issues v1.3.3
 
+- Never change your race using the vanity mirror you can pick on the start prison cell in LAL.
 - Your crosshair will dissapear when sneaking if you don't follow the MCM settings for Immersive HUD below. You won't know when you are being detected though, if you want to play with Spiderman's sense, disable Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891) in the left pane. UPDATE: A better solution is you still wanna be spiderman, use this mod instead: [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
-- More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
 - Some users report CTDs when trying to use Honed Metal on certain Vendors, if it happens to you, change to false the following in skse\plugins\EngineFixes.ini ([SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod):
 
@@ -26,7 +26,7 @@ MemoryManager = true (default false) read documentation
 1. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
 1. This is to have the list sorted in the way it was intended by me.
 
-## Experience XP System (optional)
+## Experience XP System (Optional, you can disabled it)
 
 If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) a different progression system, let enabled these three mods in MO2, otherwise, untick them:
 
@@ -43,12 +43,15 @@ Check the tweaks I made in the .ini files for these mods.
 - In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired. Also Some Optional Mods have their own section at the end of the modlist order:
   
 ![image](images/optionals.PNG)
+note: this image is old, your setup could have more or less mods in the optional separator.
 
 If you enable this optional plugins, you need to restore the NOIR loadorder (no the modlist order) in the right pane:
 
 ![(restore backup)](images/backup-1.png)
 
 This is to have the list sorted in the way it was intended by me.
+
+Also, the Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, most of them will increase the difficulty of the game.
 
 ## In-Game MCM Options
 

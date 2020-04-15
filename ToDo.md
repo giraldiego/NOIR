@@ -4,14 +4,14 @@
 
 ## On Queque
 
-- Review https://www.nexusmods.com/skyrimspecialedition/mods/28119
+- Review [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
 - Update Lucien to 1.50, requieres smashed patch and a new patch
 - [Update Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
 - Review [Realistic Swimming AND Drowning](https://www.nexusmods.com/skyrimspecialedition/mods/26735)
 - Review [Honed Metal Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
 - Backstab in Wildcats maybe OP
-- Check about Particle Patch not needed
+- Check about Particle Patch not needed, requieres recompiling everything.
 - Add [Unarmed Combat](https://www.nexusmods.com/skyrim/mods/75779)
 - Include wilmoef's Circlets and Masks with all Robes and Hoods edits
 - Add [Dynamic Things - Woodpiles and Barrels and More Oh My](https://www.nexusmods.com/skyrimspecialedition/mods/19520)
