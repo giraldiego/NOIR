@@ -1,6 +1,34 @@
 
 # Changelog
 
+## 1.3.3
+
+**Released at**: `Apr-??-2020`
+
+**Info**:
+In development...
+
+**Changes**:
+
+- Added [Combat Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
+- Added [Furniture Height Size Fix Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/32010) as Optional
+- Changed [Racial Body Morphs SE - Diverse body types and height by Race and Gender](https://www.nexusmods.com/skyrimspecialedition/mods/20684) to the Subtle version and forwarded its changes to the NOIR patch.
+- Updated Heritage patch for Requiem.
+- Fixed some missplaced things from Crafting Locationg Improved
+- Fixed more informative console incompatibility with EUI
+- Fixed LAL quests giving XP when using Experience Mod.
+
+## 1.3.2
+
+**Released at**: `Apr-13-2020`
+
+**Info**:
+Another update due to perfomance textures update, a better Heritage patch this time.
+
+**Changes**:
+
+- Updated [performance optimized textures for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files)
+
 ## 1.3.1
 
 **Released at**: `Apr-09-2020`
