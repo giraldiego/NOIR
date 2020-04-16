@@ -92,6 +92,16 @@ In-Game Date
 
 - Load Basket - Enable (Respond yes when prompted)
 
+### CGO
+
+- Input Type - As you prefer
+
+- Hotkey - As you prefer (I am using a gamepad)
+
+Set the boosts for grip change to 0%
+
+![image](images/mcm_cgo.png)
+
 ### Equipment HUD
 
 ![image](images/image11.png)
