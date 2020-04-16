@@ -94,9 +94,11 @@ In-Game Date
 
 ### CGO
 
-- Input Type - As you prefer
+- Input Type - Left untouched (Not compatible with Requiem)
 
-- Hotkey - As you prefer (I am using a gamepad)
+- Hotkey - Press "T" to Unmap
+
+- Skill Matches Grip - Disabled.
 
 Set the boosts for grip change to 0%
 
