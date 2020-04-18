@@ -21,6 +21,9 @@
 
 *Next things to change:*
 
+- Attacks have a 50% chance to glance off a block instead of bouncing back, letting you attack again
+- Attacks in 2H grip get sweeping hitboxes that hit in a 180° arc in front of your character
+
 - Add The Ultimate Dodge Mod
 - Add Growl
 - Add a Vampire Overhaul

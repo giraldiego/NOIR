@@ -1,7 +1,14 @@
 # NOIR SETUP
 
+## Check Discord Channel
+
+Always check Discord channel pinned messages, you will find the latest info, patches and comments about the current state of the modlist:
+
+![image](images/pinned.png)
+
 ## Current issues v1.3.3
 
+- Read the Discord channel's pinned messages about the considerations with CGO.
 - Never change your race using the vanity mirror you can pick on the start prison cell in LAL.
 - Your crosshair will dissapear when sneaking if you don't follow the MCM settings for Immersive HUD below. You won't know when you are being detected though, if you want to play with Spiderman's sense, disable Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891) in the left pane. UPDATE: A better solution is you still wanna be spiderman, use this mod instead: [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
