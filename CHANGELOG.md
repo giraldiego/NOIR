@@ -1,12 +1,32 @@
 
 # Changelog
 
+## 1.3.4
+
+**Released at**: `Apr-??-2020`
+
+**Info**:
+In development...
+
+**Changes**:
+
+- Added [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
+- Added [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252/)
+- Updated [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481) to 5.0
+- Updated [Requiem - Alternative Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/33663) to 2.1
+- Updated [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) to 1.5
+- Updated [Requiem Patch Central](https://www.nexusmods.com/skyrim/mods/61621) to 3.16
+- Better patch for [Combat Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
+- Included wilmoef's Circlets and Masks with all Robes and Hoods edits
+- Fixed some inconsistencies in Minor Arcana for conjured spirits
+- Added more MCM default options in the patch.
+
 ## 1.3.3
 
 **Released at**: `Apr-15-2020`
 
 **Info**:
-In development...
+Added CGO and improved the Heritage patch again, it should be better than the previous one, BEWARE OF THE DIFFICULTY from the new enemies.
 
 **Changes**:
 
