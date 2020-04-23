@@ -48,7 +48,7 @@ If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/
 - I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up.
 - Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding.
 
-[Check the tweaks](docs/CustomSkyrimUncapper.htm) I made in the .ini files for these mods.
+[Check the tweaks](https://giraldiego.github.io/NOIR/CustomSkyrimUncapper.htm) I made in the .ini files for these mods.
 
 ### Optional plugins
 
