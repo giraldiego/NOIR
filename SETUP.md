@@ -55,6 +55,7 @@ If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/
 - In the righ pane, plugins that are located after Requiem for the Indiferent are optional and can be disabled if desired. Also Some Optional Mods have their own section at the end of the modlist order:
   
 ![image](images/optionals.PNG)
+
 note: this image is old, your setup could have more or less mods in the optional separator.
 
 If you enable this optional plugins, you need to restore the NOIR loadorder (no the modlist order) in the right pane:
