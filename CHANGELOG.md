@@ -12,7 +12,7 @@ Included Obscure College of Winterhold, removed Heritage for now, updated some m
 
 - Added [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
 - Added [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252/)
-- Added [Administer Potions and Poisons to Friendly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/24127)
+- Added [Administer Potions and Poisons to Friendly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/24127) (you'll be using this a lot XD)
 - Updated [Soul Cairn HD](https://www.nexusmods.com/skyrimspecialedition/mods/15481) to 5.0
 - Updated [Requiem - Alternative Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/33663) to 2.1
 - Updated [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) to 1.5
