@@ -1,0 +1,363 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>WinMerge File Compare Report</title>
+<style type="text/css">
+<!--
+table {margin: 0; border: 1px solid #a0a0a0; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);}
+td,th {word-break: break-all; font-size: 12pt;padding: 0 3px;}
+tr { vertical-align: top; }
+.ln {text-align: right; word-break: normal; background-color: lightgrey;}
+.title {color: white; background-color: blue; vertical-align: top; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}
+.sf3b2 {color: #000000; background-color: #ffffff; }
+.sf3b5 {color: #000000; background-color: #0078d7; }
+.sf3b14 {color: #000000; background-color: #ffa0a0; }
+.sf3b16 {color: #000000; background-color: #f1e2ad; }
+.sf3b18 {color: #000000; background-color: #ffaa82; }
+.sf3b19 {color: #000000; background-color: #c8816c; }
+.sf6b2 {color: #ffffff; background-color: #ffffff; }
+.sf6b5 {color: #ffffff; background-color: #0078d7; }
+.sf6b14 {color: #ffffff; background-color: #ffa0a0; }
+.sf6b16 {color: #ffffff; background-color: #f1e2ad; }
+.sf6b18 {color: #ffffff; background-color: #ffaa82; }
+.sf6b19 {color: #ffffff; background-color: #c8816c; }
+.sf7b2 {color: #0000ff; background-color: #ffffff; font-weight: bold; }
+.sf7b5 {color: #0000ff; background-color: #0078d7; font-weight: bold; }
+.sf7b14 {color: #0000ff; background-color: #ffa0a0; font-weight: bold; }
+.sf7b16 {color: #0000ff; background-color: #f1e2ad; font-weight: bold; }
+.sf7b18 {color: #0000ff; background-color: #ffaa82; font-weight: bold; }
+.sf7b19 {color: #0000ff; background-color: #c8816c; font-weight: bold; }
+.sf8b2 {color: #800080; background-color: #ffffff; }
+.sf8b5 {color: #800080; background-color: #0078d7; }
+.sf8b14 {color: #800080; background-color: #ffa0a0; }
+.sf8b16 {color: #800080; background-color: #f1e2ad; }
+.sf8b18 {color: #800080; background-color: #ffaa82; }
+.sf8b19 {color: #800080; background-color: #c8816c; }
+.sf9b2 {color: #008000; background-color: #ffffff; }
+.sf9b5 {color: #008000; background-color: #0078d7; }
+.sf9b14 {color: #008000; background-color: #ffa0a0; }
+.sf9b16 {color: #008000; background-color: #f1e2ad; }
+.sf9b18 {color: #008000; background-color: #ffaa82; }
+.sf9b19 {color: #008000; background-color: #c8816c; }
+.sf10b2 {color: #ff0000; background-color: #ffffff; }
+.sf10b5 {color: #ff0000; background-color: #0078d7; }
+.sf10b14 {color: #ff0000; background-color: #ffa0a0; }
+.sf10b16 {color: #ff0000; background-color: #f1e2ad; }
+.sf10b18 {color: #ff0000; background-color: #ffaa82; }
+.sf10b19 {color: #ff0000; background-color: #c8816c; }
+.sf11b2 {color: #606060; background-color: #ffffff; }
+.sf11b5 {color: #606060; background-color: #0078d7; }
+.sf11b14 {color: #606060; background-color: #ffa0a0; }
+.sf11b16 {color: #606060; background-color: #f1e2ad; }
+.sf11b18 {color: #606060; background-color: #ffaa82; }
+.sf11b19 {color: #606060; background-color: #c8816c; }
+.sf12b2 {color: #800000; background-color: #ffffff; }
+.sf12b5 {color: #800000; background-color: #0078d7; }
+.sf12b14 {color: #800000; background-color: #ffa0a0; }
+.sf12b16 {color: #800000; background-color: #f1e2ad; }
+.sf12b18 {color: #800000; background-color: #ffaa82; }
+.sf12b19 {color: #800000; background-color: #c8816c; }
+.sf13b2 {color: #0080c0; background-color: #ffffff; }
+.sf13b5 {color: #0080c0; background-color: #0078d7; }
+.sf13b14 {color: #0080c0; background-color: #ffa0a0; }
+.sf13b16 {color: #0080c0; background-color: #f1e2ad; }
+.sf13b18 {color: #0080c0; background-color: #ffaa82; }
+.sf13b19 {color: #0080c0; background-color: #c8816c; }
+.sf15b2 {color: #000000; background-color: #ffffff; }
+.sf15b5 {color: #000000; background-color: #0078d7; }
+.sf15b14 {color: #000000; background-color: #ffa0a0; }
+.sf15b16 {color: #000000; background-color: #f1e2ad; }
+.sf15b18 {color: #000000; background-color: #ffaa82; }
+.sf15b19 {color: #000000; background-color: #c8816c; }
+.sf17b2 {color: #000000; background-color: #ffffff; }
+.sf17b5 {color: #000000; background-color: #0078d7; }
+.sf17b14 {color: #000000; background-color: #ffa0a0; }
+.sf17b16 {color: #000000; background-color: #f1e2ad; }
+.sf17b18 {color: #000000; background-color: #ffaa82; }
+.sf17b19 {color: #000000; background-color: #c8816c; }
+.sf20b2 {color: #000080; background-color: #ffffff; }
+.sf20b5 {color: #000080; background-color: #0078d7; }
+.sf20b14 {color: #000080; background-color: #ffa0a0; }
+.sf20b16 {color: #000080; background-color: #f1e2ad; }
+.sf20b18 {color: #000080; background-color: #ffaa82; }
+.sf20b19 {color: #000080; background-color: #c8816c; }
+.sf21b2 {color: #0080c0; background-color: #ffffff; }
+.sf21b5 {color: #0080c0; background-color: #0078d7; }
+.sf21b14 {color: #0080c0; background-color: #ffa0a0; }
+.sf21b16 {color: #0080c0; background-color: #f1e2ad; }
+.sf21b18 {color: #0080c0; background-color: #ffaa82; }
+.sf21b19 {color: #0080c0; background-color: #c8816c; }
+-->
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" style="width:100%;">
+<thead>
+<tr>
+<th colspan="2" class="title" style="width:50.000000%">G:\Games\SSE\NOIR\mods\NOIR - Custom Experience Settings\SKSE\Plugins\Experience.ini</th>
+<th colspan="2" class="title" style="width:50.000000%">G:\Games\SSE\NOIR\mods\Experience (default)\SKSE\Plugins\Experience.ini</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[General]</span>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[General]</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d1" href="#d1">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">bEnableKilling</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">bEnableKilling</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">0</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bEnableSkillXP</span><span class="sf11b2">=</span><span class="sf10b2">0</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bEnableSkillXP</span><span class="sf11b2">=</span><span class="sf10b2">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Shows level meter for all XP sources</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Shows level meter for all XP sources</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bForceLvlMeter</span><span class="sf11b2">=</span><span class="sf10b2">0</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bForceLvlMeter</span><span class="sf11b2">=</span><span class="sf10b2">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Shows XP gains in notification area</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Shows XP gains in notification area</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bShowMessages</span><span class="sf11b2">=</span><span class="sf10b2">1</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bShowMessages</span><span class="sf11b2">=</span><span class="sf10b2">1</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Fix for self clearing locations</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Fix for self clearing locations</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bLocClearingFix</span><span class="sf11b2">=</span><span class="sf10b2">0</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">bLocClearingFix</span><span class="sf11b2">=</span><span class="sf10b2">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iMaxPlayerLevel</span><span class="sf11b2">=</span><span class="sf10b2">255</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iMaxPlayerLevel</span><span class="sf11b2">=</span><span class="sf10b2">255</span></code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d2" href="#d2">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">fSkillCapBase</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">00</span><span style="color: #000000; background-color: #efcb05; ">.0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">fSkillCapBase</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">8</span><span style="color: #000000; background-color: #efcb05; ">.0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">fSkillCapMult</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">0</span><span style="color: #000000; background-color: #efcb05; ">.0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">fSkillCapMult</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">.0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Adds racial bonuses to skill cap</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Adds racial bonuses to skill cap</span></code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d3" href="#d3">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">bUseRacialCaps</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">0</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">bUseRacialCaps</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Questing]</span>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Questing]</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d4" href="#d4">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestNone</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">0</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestNone</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">75</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestMain</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">0</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestMain</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">5</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestCollege</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">65</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestCollege</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">100</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestThieves</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">4</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestThieves</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">10</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iXPQuestBrotherhood</span><span class="sf11b2">=</span><span class="sf10b2">100</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iXPQuestBrotherhood</span><span class="sf11b2">=</span><span class="sf10b2">100</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iXPQuestCompanions</span><span class="sf11b2">=</span><span class="sf10b2">100</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iXPQuestCompanions</span><span class="sf11b2">=</span><span class="sf10b2">100</span></code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d5" href="#d5">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestDaedric</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">0</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestDaedric</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">5</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestSide</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">50</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestSide</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">75</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestCivilWar</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">0</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestCivilWar</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">5</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestDawnguard</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">100</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestDawnguard</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">75</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestDragonborn</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">0</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPQuestDragonborn</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">1</span><span class="sf17b16">5</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; For testing purposes only</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; For testing purposes only</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iXPQuestMisc</span><span class="sf11b2">=</span><span class="sf10b2">0</span><span class="sf11b2"> ; </span><span class="sf10b2">10</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">iXPQuestMisc</span><span class="sf11b2">=</span><span class="sf10b2">0</span><span class="sf11b2"> ; </span><span class="sf10b2">10</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Exploring]</span>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Exploring]</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d6" href="#d6">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscFort</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">8</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscFort</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">15</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscNordicRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">8</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscNordicRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">15</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDwemerRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDwemerRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscShipwreck</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscShipwreck</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDragonLair</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">15</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDragonLair</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">30</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDoomstone</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDoomstone</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscImperialTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">8</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscImperialTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">15</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscOrcStronghold</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">8</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscOrcStronghold</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">15</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscGiantCamp</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscGiantCamp</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscNordicTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscNordicTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscNordicDwelling</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscNordicDwelling</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDaedricShrine</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">15</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscDaedricShrine</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">30</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscOther</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPDiscOther</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b18">1</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Clearing]</span>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Clearing]</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d7" href="#d7">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearCave</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearCave</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">4</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearFort</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">3</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearFort</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">6</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearNordicRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">65</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearNordicRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">100</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearDwemerRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">65</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearDwemerRuin</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">100</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearDragonLair</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">65</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearDragonLair</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">100</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearImperialTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">35</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearImperialTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">50</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearGiantCamp</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">45</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearGiantCamp</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">60</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearNordicTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">35</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearNordicTower</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">50</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearOther</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPClearOther</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">3</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Killing]</span>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf8b2">[Killing]</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Number of levels below that still give XP</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Number of levels below that still give XP</span></code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d8" href="#d8">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPLevelRange</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">10</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">iXPLevelRange</span><span style="color: #000000; background-color: #efcb05; ">=</span><span class="sf17b16">2</span><span style="color: #000000; background-color: #efcb05; ">0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Global multiplier for XP from kills</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Global multiplier for XP from kills</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">fXPKillingMult</span><span class="sf11b2">=</span><span class="sf10b2">1.0</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf7b2">fXPKillingMult</span><span class="sf11b2">=</span><span class="sf10b2">1.0</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Percentage of XP stolen by each follower</span></code></td>
+<td class="ln"></td><td class="sf3b2"><code><span class="sf9b2">; Percentage of XP stolen by each follower</span></code></td>
+</tr>
+<tr>
+<td class="ln"><a name="d9" href="#d9">.</a></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">fXPGroupFactor</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">0.</span><span class="sf17b16">3</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #efcb05; "><code><span style="color: #000000; background-color: #efcb05; font-weight: bold; ">fXPGroupFactor</span><span style="color: #000000; background-color: #efcb05; ">=</span><span style="color: #000000; background-color: #efcb05; ">0.</span><span class="sf17b16">2</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+<td class="ln"></td><td class="sf3b2"><code>&nbsp;</code></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

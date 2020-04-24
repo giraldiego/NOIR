@@ -3,10 +3,10 @@
 
 ## 1.3.4
 
-**Released at**: `Apr-??-2020`
+**Released at**: `Apr-23-2020`
 
 **Info**:
-In development...
+Included Obscure College of Winterhold, removed Heritage for now, updated some mods, minor fixes. See below:
 
 **Changes**:
 
@@ -25,12 +25,13 @@ In development...
 ```
 
 - Included wilmoef's Circlets and Masks with all Robes and Hoods edits
+- Included optional Skimpy version for TMB Armors.
 - Fixed some inconsistencies in Minor Arcana for conjured spirits
 - Hopefully fixed this time `SkyrimUncapper.ini` not being included in the modlist.
 - Added more MCM default options in the patch.
 - Disabled Followers' health regeneration after combat, so you need to heal them using the new mod.
-- Tweaked [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) to duplicate bandits only the 50% of the time.
-- Tweaked Requiem - Lucien Patch from `Requiem Patch Central` to include NPCs added to the Lucien's quest.
+- Tweaked [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) to duplicate bandits only 1/3 of the times.
+- Tweaked `Requiem - Lucien Patch` from `Requiem Patch Central` to reqtificate NPCs added to the Lucien's quest.
 - Minor fixes to Crafting Location Improved SE
 
 ## 1.3.3

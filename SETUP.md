@@ -6,24 +6,24 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 
 ![image](images/pinned.png)
 
-## Current issues v1.3.3
+## Important Info
+
+- Read the Discord channel's pinned messages about the considerations with CGO in Requiem.
+- Your crosshair will dissapear when sneaking if you don't follow the MCM settings for Immersive HUD below. You won't know when you are being detected though, if you want to play with Spiderman's sense, disable Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891) in the left pane. UPDATE: A better solution is you still wanna be spiderman, use this mod instead: [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
+- NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
+- To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
+
+## Current issues v1.3.4
+
+No issues reported yet.
+No Hotfixes requiered for this version yet.
+
+## Previous issues v1.3.3
 
 - **IMPORTANT**: Install the following Hotfixes to the modlist, install normally with MO2 in that order:
   
 1. [NOIR Custom Patches v1.3 - Hotfix](https://drive.google.com/open?id=1wSy4P6Rtbh3MWyy-GPi_oRdapg8V827V)
 1. [NOIR 1.3.3 - CGO Hotfix](https://drive.google.com/open?id=18I1hi0AEK2rcXsKYu7CO_YQHQP0IbN1b)
-
-- Read the Discord channel's pinned messages about the considerations with CGO in Requiem.
-- Never change your race using the vanity mirror you can pick on the start prison cell in LAL.
-- Your crosshair will dissapear when sneaking if you don't follow the MCM settings for Immersive HUD below. You won't know when you are being detected though, if you want to play with Spiderman's sense, disable Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891) in the left pane. UPDATE: A better solution is you still wanna be spiderman, use this mod instead: [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
-- NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
-- Some users report CTDs when trying to use Honed Metal on certain Vendors, if it happens to you, change to false the following in skse\plugins\EngineFixes.ini ([SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod):
-
-```[Experimental]
-MemoryManager = true (default false) read documentation
-```
-
-- To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 
 [Old issues](#Previous-issues)
 
@@ -44,11 +44,9 @@ If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/
 
 ![image](images/image1.png)
 
-- In Summary, you won’t level up for skill, but for quests, exploration and killing.
+- In Summary, you won’t level up for skill, but for quests, exploration and killing [review the changes](https://giraldiego.github.io/NOIR/Experience.htm).
 - I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up.
-- Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding.
-
-[Check the tweaks](https://giraldiego.github.io/NOIR/CustomSkyrimUncapper.htm) I made in the .ini files for these mods.
+- Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding [review those changes](https://giraldiego.github.io/NOIR/CustomSkyrimUncapper.htm).
 
 ### Optional plugins
 
@@ -411,6 +409,25 @@ All other MCM settings can be configured as you like, or depending on extra mods
 ![image](images/image3.png)
 
 # Previous issues
+
+## Previous issues v1.3.3
+
+- **IMPORTANT**: Install the following Hotfixes to the modlist, install normally with MO2 in that order:
+  
+1. [NOIR Custom Patches v1.3 - Hotfix](https://drive.google.com/open?id=1wSy4P6Rtbh3MWyy-GPi_oRdapg8V827V)
+1. [NOIR 1.3.3 - CGO Hotfix](https://drive.google.com/open?id=18I1hi0AEK2rcXsKYu7CO_YQHQP0IbN1b)
+
+- Read the Discord channel's pinned messages about the considerations with CGO in Requiem.
+- Never change your race using the vanity mirror you can pick on the start prison cell in LAL.
+- Your crosshair will dissapear when sneaking if you don't follow the MCM settings for Immersive HUD below. You won't know when you are being detected though, if you want to play with Spiderman's sense, disable Added [DOT CROSSHAIR](https://www.nexusmods.com/skyrimspecialedition/mods/8891) in the left pane. UPDATE: A better solution is you still wanna be spiderman, use this mod instead: [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
+- NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
+- Some users report CTDs when trying to use Honed Metal on certain Vendors, if it happens to you, change to false the following in skse\plugins\EngineFixes.ini ([SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230) mod):
+
+```[Experimental]
+MemoryManager = true (default false) read documentation
+```
+
+- To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 
 ## v1.3
 
