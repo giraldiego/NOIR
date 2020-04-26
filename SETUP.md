@@ -13,6 +13,11 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 
+## Current issues v1.3.5
+
+No issues reported yet.
+No Hotfixes requiered for this version yet.
+
 ## Current issues v1.3.4
 
 No issues reported yet.
