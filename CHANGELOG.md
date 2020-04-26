@@ -1,6 +1,23 @@
 
 # Changelog
 
+## 1.3.5
+
+**Released at**: `Apr-26-2020`
+
+**Info**:
+It was supposed to be mostly the same that 1.3.4 but for WJ 2.0. Instead, some mods were removed, some optionals become standard, some standards become optional and mods were updated. New game required. See below:
+
+**Changes**:
+
+- Updated Skyrim Perfomance Textures (once again)
+- Updated USSEP to 4.2.3
+- Removed Crafting Locations Improved SE (Imcompatibilites with future mod additions)
+- Removed Skyrim Particle Patch for ENB (Not needed)
+- Removed Realistic Water 2 (Not compatibility friendly)
+- Added [Cathedral - Water Overhaul and Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
+- Tweaked [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc).
+
 ## 1.3.4
 
 **Released at**: `Apr-23-2020`
