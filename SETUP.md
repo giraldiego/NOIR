@@ -15,7 +15,8 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 
 ## Current issues v1.3.5
 
-No issues reported yet.
+- Cathedral Waters is unticked in the Right Pane, tick it and update your profile folder with the files provided [here](https://drive.google.com/open?id=1y3n65ZhR39reCfDoHS5nzEFxn9bphqrl).
+
 No Hotfixes requiered for this version yet.
 
 ## Current issues v1.3.4
