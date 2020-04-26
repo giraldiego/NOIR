@@ -4,6 +4,7 @@
 
 ## On Queque
 
+- Disable option to scripted roll option in CGO
 - Review [Dot Crosshair - With Sneak Eye](https://www.nexusmods.com/skyrimspecialedition/mods/28119)
 - Review [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
 - Review [Realistic Swimming AND Drowning](https://www.nexusmods.com/skyrimspecialedition/mods/26735)
