@@ -16,21 +16,10 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 
 ## Current issues v1.3.5
 
-- Cathedral Waters is unticked in the Right Pane, tick it and update your profile folder with the files provided [here](https://drive.google.com/open?id=1y3n65ZhR39reCfDoHS5nzEFxn9bphqrl).
-
-No Hotfixes requiered for this version yet.
-
-## Current issues v1.3.4
-
-No issues reported yet.
-No Hotfixes requiered for this version yet.
-
-## Previous issues v1.3.3
-
-- **IMPORTANT**: Install the following Hotfixes to the modlist, install normally with MO2 in that order:
-  
-1. [NOIR Custom Patches v1.3 - Hotfix](https://drive.google.com/open?id=1wSy4P6Rtbh3MWyy-GPi_oRdapg8V827V)
-1. [NOIR 1.3.3 - CGO Hotfix](https://drive.google.com/open?id=18I1hi0AEK2rcXsKYu7CO_YQHQP0IbN1b)
+- Download and extract the content of this [NOIR v1.3.5 - Hotfix](https://drive.google.com/open?id=1Jl6Da2BabbfMwjyQsiBXqC8YR7wQCXoH) in you NOIR installation folder (MO2) and let it overwrite the files. It solves the following:
+  - Enables Cathedral Waters plugin in right pane (plugins.txt)
+  - Fixes female jarls sitting animation (Nemesis Output)
+  - Fixes black face bug for Olfina Gray-Mane
 
 [Old issues](#Previous-issues)
 
@@ -417,7 +406,12 @@ All other MCM settings can be configured as you like, or depending on extra mods
 
 # Previous issues
 
-## Previous issues v1.3.3
+## issues v1.3.4
+
+No issues reported yet.
+No Hotfixes requiered for this version yet.
+
+## issues v1.3.3
 
 - **IMPORTANT**: Install the following Hotfixes to the modlist, install normally with MO2 in that order:
   
@@ -436,7 +430,7 @@ MemoryManager = true (default false) read documentation
 
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 
-## v1.3
+## issues v1.3
 
 - More informative console has conflict with E-UI, solution: MIC is disabled by default, you can activate it anytime though, if you want to use its functionality over the E-UI.
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
