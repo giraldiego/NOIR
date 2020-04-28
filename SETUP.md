@@ -13,6 +13,7 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 - If you can't dodge roll using CGO, check this [vid](https://youtu.be/RjhS9LvEaSM) for a solution.
+- [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) has been tweaked to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc). The default value is 40%, so BEWARE of this is you are new to Requiem.
 
 ## Current issues v1.3.5
 
@@ -99,6 +100,8 @@ In-Game Date
 
 - Load Basket - Enable (Respond yes when prompted)
 
+![image](images/mcm_bsr.png)
+
 ### CGO
 
 - Input Type - Left untouched (Not compatible with Requiem)
@@ -157,6 +160,16 @@ Mounts
 
 - Mount Support - Riding Support Only
 
+**Gameplay**
+
+Combat:
+
+- Bleedout Time - 120.0 seconds
+
+- Potion Recovery - Any (weak to strong)
+
+![image](images/mcm_nff.png)
+
 ### Honed Metal
 
 **General**
@@ -194,6 +207,14 @@ Compass Activation
 General
 
 - Show Enemy Level - DISABLED
+
+### MVB
+
+**Config**
+
+General
+
+- multiplier - Chance to spawn by 40% (for milkdrinkers use 10%)
 
 ### NECR
 
