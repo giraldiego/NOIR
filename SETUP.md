@@ -90,9 +90,9 @@ In-Game Date
 - Horizontal Offset - 10
 - Vertical Offset - 60
 
-![image](images/image6.png)
+![image](images/image6.jpg)
 
-![image](images/image9.png)
+![image](images/image9.jpg)
 
 ### Blocksteal Redux
 
@@ -100,7 +100,7 @@ In-Game Date
 
 - Load Basket - Enable (Respond yes when prompted)
 
-![image](images/mcm_bsr.png)
+![image](images/mcm_bsr.jpg)
 
 ### CGO
 
@@ -112,11 +112,11 @@ In-Game Date
 
 Set the boosts for grip change to 0%
 
-![image](images/mcm_cgo.png)
+![image](images/mcm_cgo.jpg)
 
 ### Equipment HUD
 
-![image](images/image11.png)
+![image](images/image11.jpg)
 
 ### ESF Companions
 
@@ -168,7 +168,7 @@ Combat:
 
 - Potion Recovery - Any (weak to strong)
 
-![image](images/mcm_nff.png)
+![image](images/mcm_nff.jpg)
 
 ### Honed Metal
 
@@ -218,7 +218,7 @@ General
 
 ### NECR
 
-![image](images/image8.png)
+![image](images/image8.jpg)
 
 ### Not So Fast MG (Not So Fast Mage Guild)
 
@@ -265,7 +265,7 @@ Options
 
 ### Smart Training
 
-![image](images/image4.png)
+![image](images/image4.jpg)
 
 ### SSSO
 
@@ -277,7 +277,7 @@ Options
 
 *Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
 
-![image](images/image7.png)
+![image](images/image7.jpg)
 
 ### Timing is Everything
 
@@ -383,7 +383,7 @@ Attacks of Opportunity
 
 - Disable Penanlites vs. Massive Targets - ENABLED
 
-![image](images/image5.png)
+![image](images/image5.jpg)
 
 ### SKYUI
 
@@ -419,11 +419,11 @@ All other MCM settings can be configured as you like, or depending on extra mods
 
 - Disable Non-Critical Warnings: Enabled
 
-![image](images/image2.png)
+![image](images/image2.jpg)
 
-![image](images/image10.png)
+![image](images/image10.jpg)
 
-![image](images/image3.png)
+![image](images/image3.jpg)
 
 # Previous issues
 
