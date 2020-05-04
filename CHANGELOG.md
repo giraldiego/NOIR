@@ -10,7 +10,7 @@ Maintenance version due to updated mods. New game required or use ReSaver. See b
 
 **Changes**:
 
-- Added [Ashes](https://www.nexusmods.com/skyrimspecialedition/mods/19234) and applied the latest [patch] (https://www.reddit.com/r/ultimateskyrim/comments/cs0gzj/ashes_002_fixes/)
+- Added [Ashes](https://www.nexusmods.com/skyrimspecialedition/mods/19234) and applied the latest [patch](https://www.reddit.com/r/ultimateskyrim/comments/cs0gzj/ashes_002_fixes/)
 - Updated CGO to 1.1.0
 - Updated Baka Haeun UNP to 1.77
 - Updated Fozar's Requiem - Dragonborn Patch to 3.0.1
