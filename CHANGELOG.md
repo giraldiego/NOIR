@@ -1,6 +1,40 @@
 
 # Changelog
 
+## 1.3.6
+
+**Released at**: `May-4-2020`
+
+**Info**:
+Maintenance version due to updated mods. New game required or use ReSaver. See below:
+
+**Changes**:
+
+- Updated CGO to 1.1.0
+- Updated Baka Haeun UNP to 1.77
+- Enabled Cathedral Waters plugin in right pane (plugins.txt)
+- Fixed female jarls sitting animation (Nemesis Output)
+- Fixed black face bug for Olfina Gray-Mane
+- Fixed door from Skyrim Unlocked overlapping layout from Obscure College of Winterhold
+- Fixed Water Level bug in Riften
+- Lower default chance of spawn cloned Bandits in MVB from 40% to 10%
+- Updated Requiem - Small Tweaks (contains):
+  - "Requiem_Alduin_redone.esp",
+  - "Requiem_knockdown_patch.esp",
+  - "Requiem_npc_statefix.esp",
+  - "Requiem_VampireCollection.esp"
+
+- Updated Requiem - Noxcrab's Tweask (contains):
+  - "Requiem - Automaton Resistance Tweak.esp",
+  - "Requiem - Battlestaves Redone.esp",
+  - "Requiem - Craftable Items.esp",
+  - "Requiem - Destruction Touch Spells.esp",
+  - "Requiem - Dragon Resistance Tweak.esp",
+  - "Requiem - Enemy Regeneration Tweak.esp",
+  - "Requiem - Illusion Redone.esp",
+  - "Requiem - Scroll Crafting.esp"
+
+
 ## 1.3.5
 
 **Released at**: `Apr-26-2020`

@@ -15,6 +15,11 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 - If you can't dodge roll using CGO, check this [vid](https://youtu.be/RjhS9LvEaSM) for a solution.
 - [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) has been tweaked to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc). The default value is 40%, so BEWARE of this is you are new to Requiem.
 
+## Current issues v1.3.6
+
+No issues reported yet.
+No Hotfixes requiered for this version yet.
+
 ## Current issues v1.3.5
 
 - Download and extract the content of this [NOIR v1.3.5 - Hotfix](https://drive.google.com/open?id=1Jl6Da2BabbfMwjyQsiBXqC8YR7wQCXoH) in you NOIR installation folder (MO2) and let it overwrite the files. It solves the following:
@@ -53,7 +58,7 @@ If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/
 
 note: this image is old, your setup could have more or less mods in the optional separator.
 
-If you enable this optional plugins, you need to restore the NOIR loadorder (no the modlist order) in the right pane:
+If you enable this optional plugins, you need to restore the NOIR loadorder (no the modlist order) in the **RIGHT** pane:
 
 ![(restore backup)](images/backup-1.png)
 
@@ -94,6 +99,10 @@ In-Game Date
 
 ![image](images/image9.jpg)
 
+### Ashes 
+
+![image](images/mcm_ashes.jpg)
+
 ### Blocksteal Redux
 
 - Activate - Enable
@@ -104,15 +113,10 @@ In-Game Date
 
 ### CGO
 
-- Input Type - Left untouched (Not compatible with Requiem)
-
-- Hotkey - Press "T" to Unmap
-
-- Skill Matches Grip - Disabled.
-
-Set the boosts for grip change to 0%
+Read the pinned post in WJ Discord for more info.
 
 ![image](images/mcm_cgo.jpg)
+![image](images/mcm_cgo2.jpg)
 
 ### Equipment HUD
 
