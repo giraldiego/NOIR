@@ -72,16 +72,17 @@ This is to have the list sorted in the way it was intended by me.
 
 Also, there is a Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, they usually increase the difficulty of the game.
 
-## Nevernude Option
+## Nevernude Setup
 
 Reinstall [UNP Female Body Renewal - A female face and body replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1699) and be sure to choose the following options:
 
 ![image](images/nevernude.png)
 ![image](images/nevernude-2.png)
 
-Put the mod last in your loadorder:
+Put the mod last in your loadorder and disable **Baka Haeun UNP** mod:
 
 ![image](images/nevernude-3.png)
+![image](images/nevernude-4.png)
 
 ## In-Game MCM Options
 
