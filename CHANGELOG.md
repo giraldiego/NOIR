@@ -10,14 +10,17 @@ Maintenance version due to updated mods. New game required or use ReSaver. See b
 
 **Changes**:
 
+- Added [Ashes](https://www.nexusmods.com/skyrimspecialedition/mods/19234) and applied the latest [patch] (https://www.reddit.com/r/ultimateskyrim/comments/cs0gzj/ashes_002_fixes/)
 - Updated CGO to 1.1.0
 - Updated Baka Haeun UNP to 1.77
+- Updated Fozar's Requiem - Dragonborn Patch to 3.0.1
 - Enabled Cathedral Waters plugin in right pane (plugins.txt)
 - Fixed female jarls sitting animation (Nemesis Output)
 - Fixed black face bug for Olfina Gray-Mane
 - Fixed door from Skyrim Unlocked overlapping layout from Obscure College of Winterhold
 - Fixed Water Level bug in Riften
 - Lower default chance of spawn cloned Bandits in MVB from 40% to 10%
+- Balanced Missives NPCs to be more challenging and in line with Requiem standards
 - Updated Requiem - Small Tweaks (contains):
   - "Requiem_Alduin_redone.esp",
   - "Requiem_knockdown_patch.esp",
