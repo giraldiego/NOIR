@@ -18,6 +18,7 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 ## Current issues v1.3.6
 
 No issues reported yet.
+
 No Hotfixes requiered for this version yet.
 
 ## Current issues v1.3.5
