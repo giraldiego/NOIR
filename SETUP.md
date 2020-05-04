@@ -26,6 +26,8 @@ No Hotfixes requiered for this version yet.
   - Enables Cathedral Waters plugin in right pane (plugins.txt)
   - Fixes female jarls sitting animation (Nemesis Output)
   - Fixes black face bug for Olfina Gray-Mane
+  - Fixes door from Skyrim Unlocked overlapping layout from Obscure College of Winterhold
+  - Lower default chance of spawn cloned Bandits in MVB from 40% to 10%
 
 [Old issues](#Previous-issues)
 
@@ -394,12 +396,6 @@ Attacks of Opportunity
 **Advanced**
 
 - Disable all SWF Version Checking
-
-### Realistic Water 2
-
-- Kynesgrove X - Enabled
-
-- Rorikstead X - Enabled
 
 All other MCM settings can be configured as you like, or depending on extra mods you’ve installed.
 
