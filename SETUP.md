@@ -6,6 +6,8 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 
 ![image](images/pinned.png)
 
+Also read the [FAQ](https://github.com/giraldiego/NOIR/blob/master/README.md#FAQ)
+
 ## Important Info
 
 - Read the Discord channel's pinned messages about the considerations with CGO in Requiem.
@@ -13,7 +15,7 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 - NECR scripts trigger the first time you equip a crossbow, it is desirable to do this outside of combat. Some user reported a crash when he picked a crossbow and tried to equip it in a heavy loaded cell inside combat. To avoid this situation, the first time you ever equip your crossbow, don't do it in combat.
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 - If you can't dodge roll using CGO, check this [vid](https://youtu.be/RjhS9LvEaSM) for a solution.
-- [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) has been tweaked to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc). The default value is 10%.
+- [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) has been tweaked to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc). The default value is 10%, but veteran players could use values like 40%.
 
 ## Current issues v1.3.6
 
@@ -43,7 +45,7 @@ No Hotfixes requiered for this version yet.
 1. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
 1. This is to have the list sorted in the way it was intended by me.
 
-## Experience XP System (Optional, you can disabled it)
+## Experience XP System (Optional, but recommended; you can disabled it)
 
 If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) a different progression system, let enabled these three mods in MO2, otherwise, untick them:
 
@@ -67,7 +69,7 @@ If you enable this optional plugins, you need to restore the NOIR loadorder (no 
 
 This is to have the list sorted in the way it was intended by me.
 
-Also, the Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, most of them will increase the difficulty of the game.
+Also, there is a Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, they usually increase the difficulty of the game.
 
 ## In-Game MCM Options
 
@@ -79,7 +81,7 @@ Notes indicate settings to change, if not specified leave as default, also be aw
 
 **Presets**
 
-Auto config: Presets -> Load User Settings
+Auto config: Presets -> Load User Settings (this will save you the hassle)
 
 **Display**
 
@@ -221,7 +223,7 @@ General
 
 General
 
-- multiplier - Chance to spawn by 40% (for milkdrinkers use 10%)
+- multiplier - Chance to spawn by 40% (for milkdrinkers use 0% or 10%)
 
 ### NECR
 
@@ -281,6 +283,8 @@ Options
 *Rotating Automatic Save* - `Enabled`
 
 *Auto Save Count* - `7 Slots`
+
+* Enable Hardcore Mode - Disabled (read the mod page for more info)
 
 *Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
 
@@ -360,6 +364,10 @@ Options
 
 ### VioLens
 
+**Profile System**
+
+Load - NOIR (It should load the values below)
+
 **Melee & Ranged**
 
 Melee
@@ -388,6 +396,8 @@ Dynamic Combat
 
 Attacks of Opportunity
 
+- Disable Backstabs - Disabled (Enable if you think is umbalanced)
+
 - Disable Penanlites vs. Massive Targets - ENABLED
 
 ![image](images/image5.jpg)
@@ -401,6 +411,8 @@ Attacks of Opportunity
 All other MCM settings can be configured as you like, or depending on extra mods you’ve installed.
 
 **-----Save your game now, open your inventory and close it.-----**
+
+At this point, because you haven't started Requiem scripts yet, some people say you could use this save as a template for future games and avoid to have to configure the MCM again. Some people say it will break the game. YMMV so decide that for yourself.
 
 ### Requiem (wait until Requiem tells you it is ready)
 
