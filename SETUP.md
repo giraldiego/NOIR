@@ -20,7 +20,7 @@ UPDATE: A better solution if you still wanna be spiderman, use this mod instead:
 
 ## Current issues v1.3.6
 
-No issues reported yet.
+- The Separator says "Enjoy NOIR v1.3.5" instead of v1.3.6... LOL
 
 No Hotfixes requiered for this version yet.
 
@@ -40,6 +40,7 @@ No Hotfixes requiered for this version yet.
 1. Open ModOrganizer and select a profile you want to use as your basis
 1. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 1. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
+1. I prefer to have the modlist sorted by Priority from last to first instead of the defaul (first to last). Don't judge me.
 
 ### *In case you messed up the modlist default order*
 
@@ -55,6 +56,7 @@ If you want to [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/
 - In Summary, you won’t level up for skill, but for quests, exploration and killing [review the changes](https://giraldiego.github.io/NOIR/Experience.htm).
 - I buffed the grinding skills (Alchemy, Smithing, Enchanting) at low level because I found them boring to level up.
 - Also, I buffed the Restoration and Enchanting Schools at low level but not that much as the grinding [review those changes](https://giraldiego.github.io/NOIR/CustomSkyrimUncapper.htm).
+- Because you won't gain levels for grinding skills, I say it is balanced.
 
 ### Optional plugins
 
