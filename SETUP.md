@@ -24,16 +24,7 @@ UPDATE: A better solution if you still wanna be spiderman, use this mod instead:
 
 No Hotfixes requiered for this version yet.
 
-## Current issues v1.3.5
-
-- Download and extract the content of this [NOIR v1.3.5 - Hotfix](https://drive.google.com/open?id=1Jl6Da2BabbfMwjyQsiBXqC8YR7wQCXoH) in you NOIR installation folder (MO2) and let it overwrite the files. It solves the following:
-  - Enables Cathedral Waters plugin in right pane (plugins.txt)
-  - Fixes female jarls sitting animation (Nemesis Output)
-  - Fixes black face bug for Olfina Gray-Mane
-  - Fixes door from Skyrim Unlocked overlapping layout from Obscure College of Winterhold
-  - Lower default chance of spawn cloned Bandits in MVB from 40% to 10%
-
-[Old issues](#Previous-issues)
+[Old issues(fixed in latest version)](#Previous-issues)
 
 ## MO2 Setup
 
@@ -448,6 +439,15 @@ At this point, because you haven't started Requiem scripts yet, some people say 
 ![image](images/image3.jpg)
 
 # Previous issues
+
+## issues v1.3.5
+
+- Download and extract the content of this [NOIR v1.3.5 - Hotfix](https://drive.google.com/open?id=1Jl6Da2BabbfMwjyQsiBXqC8YR7wQCXoH) in you NOIR installation folder (MO2) and let it overwrite the files. It solves the following:
+  - Enables Cathedral Waters plugin in right pane (plugins.txt)
+  - Fixes female jarls sitting animation (Nemesis Output)
+  - Fixes black face bug for Olfina Gray-Mane
+  - Fixes door from Skyrim Unlocked overlapping layout from Obscure College of Winterhold
+  - Lower default chance of spawn cloned Bandits in MVB from 40% to 10%
 
 ## issues v1.3.4
 
