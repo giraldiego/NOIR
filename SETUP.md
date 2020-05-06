@@ -502,11 +502,11 @@ Put the mod last in your loadorder and disable **Baka Haeun UNP** mod:
 
 ### Vanilla Requiem Setup
 
-To have a more vanilla Requiem experience or to install overhauls like AZTweaks or 3Tweaks, disable the following mods in left pane:
+If you want to have a more vanilla Requiem experience or you want to install overhauls like AZTweaks or 3Tweaks, disable the following mods in left pane (Minor Arcana, Small Tweaks and Noxcrab Tweaks are recommended even for Vanilla Requiem):
 
 ![image](images/vanilla_requiem-2.png)
 
-That should get rid of the following plugins in the right pane:
+Check the following plugins are disabled or not there in the right pane:
 
 ![image](images/vanilla_requiem.png)
 
