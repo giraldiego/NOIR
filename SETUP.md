@@ -74,17 +74,7 @@ This is to have the list sorted in the way it was intended by me.
 
 Also, there is a Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, they usually increase the difficulty of the game.
 
-## Nevernude Setup
-
-Reinstall [UNP Female Body Renewal - A female face and body replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1699) and be sure to choose the following options:
-
-![image](images/nevernude.png)
-![image](images/nevernude-2.png)
-
-Put the mod last in your loadorder and disable **Baka Haeun UNP** mod:
-
-![image](images/nevernude-3.png)
-![image](images/nevernude-4.png)
+[Advanced SETUP (nevernude, etc)](##NOIR-Advanced-SETUP)
 
 ## In-Game MCM Options
 
@@ -293,13 +283,17 @@ Options
 
 ### SSSO
 
+From SSSO Nexus' page:
+
+![image](images/ssso_lal.png)
+
 **VERY IMPORTANT:** Assign a *Manual Save Key* and from now on use it to save your game (don't use the menu anymore).
 
 *Rotating Automatic Save* - `Enabled`
 
 *Auto Save Count* - `7 Slots`
 
-* Enable Hardcore Mode - Disabled (read the mod page for more info)
+*Enable Hardcore Mode* - Disabled (read the mod page for more info)
 
 *Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
 
@@ -491,3 +485,28 @@ MemoryManager = true (default false) read documentation
 
 - To avoid save corruption and crashes due to wrong save states, follow the MCM configuration for SSSO below.
 - [Cinematic Dragon Soul Absorption](https://www.nexusmods.com/skyrimspecialedition/mods/12106?) was installed with a female voice, if you play a male character, reinstall the mod following [Lexy's guide instructions](https://wiki.nexusmods.com/index.php/User:Darkladylexy/ModList_Page#[Cinematic_Dragon_Soul_Absorption]).
+
+## NOIR Advanced SETUP
+
+### Nevernude Setup
+
+Reinstall [UNP Female Body Renewal - A female face and body replacer](https://www.nexusmods.com/skyrimspecialedition/mods/1699) and be sure to choose the following options:
+
+![image](images/nevernude.png)
+![image](images/nevernude-2.png)
+
+Put the mod last in your loadorder and disable **Baka Haeun UNP** mod:
+
+![image](images/nevernude-3.png)
+![image](images/nevernude-4.png)
+
+### Vanilla Requiem Setup
+
+To have a more vanilla Requiem experience or to install overhauls like AZTweaks or 3Tweaks, disable the following mods in left pane:
+
+![image](images/vanilla_requiem-2.png)
+
+That should get rid of the following plugins in the right pane:
+![image](images/vanilla_requiem.png)
+
+Run zEdit for the NPC Apparence Transfer and the Reqtificator. Go to Requiem's Discord to get help in how to setup the reqtificator in SSE.
