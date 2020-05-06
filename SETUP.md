@@ -74,7 +74,7 @@ This is to have the list sorted in the way it was intended by me.
 
 Also, there is a Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, they usually increase the difficulty of the game.
 
-[Advanced SETUP (nevernude, etc)](##NOIR-Advanced-SETUP)
+IMPORTANT: [**Advanced SETUP (nevernude, etc)**](##NOIR-Advanced-SETUP)
 
 ## In-Game MCM Options
 
