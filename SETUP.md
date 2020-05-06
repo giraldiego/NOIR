@@ -509,4 +509,6 @@ To have a more vanilla Requiem experience or to install overhauls like AZTweaks 
 That should get rid of the following plugins in the right pane:
 ![image](images/vanilla_requiem.png)
 
-Run zEdit for the NPC Apparence Transfer and the Reqtificator. Go to Requiem's Discord to get help in how to setup the reqtificator in SSE.
+Run zEdit for the NPC Apparence Transfer (read Lexy's guide) and the Reqtificator. Go to Requiem's Discord to get help in how to setup the reqtificator in SSE. The files you need to edit to make it work are located in `NOIR\mods\PROFILE NOIR 1.3.6\SkyProc Patchers\Requiem\Files` (for v1.3.6):
+
+![image](images/vanilla_requiem-3.png)
