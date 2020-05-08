@@ -1,6 +1,20 @@
 
 # Changelog
 
+## 1.3.6.1
+
+**Released at**: `May-8-2020`
+
+**Info**:
+Nothing fancy, just updated YesImSure to 1.5. and added some mods, No need to upgrade if you are in 1.3.6. See below:
+
+**Changes**:
+
+- Added [Trivial Smelters of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/27511?tab=posts)
+- Added [Death is Highly Overrated Redone 2020 (series 3 ) for Injury Mods](https://www.nexusmods.com/skyrimspecialedition/mods/32784)(OPTIONAL)
+- Updated YesImSure to 1.50
+- Softened settings for Honed Metal.
+
 ## 1.3.6
 
 **Released at**: `May-4-2020`
