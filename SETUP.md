@@ -18,13 +18,12 @@ UPDATE: A better solution if you still wanna be spiderman, use this mod instead:
 - If you can't dodge roll using CGO, check this [vid](https://youtu.be/RjhS9LvEaSM) for a solution.
 - [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) has been tweaked to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc). The default value is 10%, but veteran players could use values above 40%.
 
-## Current issues v1.3.6
+## Current issues v1.3.6.1
 
-- The Separator says "Enjoy NOIR v1.3.5" instead of v1.3.6... LOL
-
+No issues reported yet.
 No Hotfixes requiered for this version yet.
 
-[Old issues(fixed in latest version)](#Previous-issues)
+[Old issues (not anymore)](#Previous-issues)
 
 ## MO2 Setup
 
