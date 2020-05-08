@@ -21,6 +21,7 @@ UPDATE: A better solution if you still wanna be spiderman, use this mod instead:
 ## Current issues v1.3.6.1
 
 No issues reported yet.
+
 No Hotfixes requiered for this version yet.
 
 [Old issues (not anymore)](#Previous-issues)
