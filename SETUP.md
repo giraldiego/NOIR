@@ -6,7 +6,7 @@ Always check Discord channel pinned messages, you will find the latest info, pat
 
 ![image](images/pinned.png)
 
-Also read the [FAQ](https://github.com/giraldiego/NOIR/blob/master/README.md#FAQ)
+Also read the [FAQ](https://github.com/giraldiego/NOIR/blob/master/README.md#FAQ) (Recommended if you are new to Requiem)
 
 ## Important Info
 
@@ -452,6 +452,7 @@ At this point, because you haven't started Requiem scripts yet, some people say 
 ## issues v1.3.4
 
 No issues reported yet.
+
 No Hotfixes requiered for this version yet.
 
 ## issues v1.3.3
