@@ -24,7 +24,7 @@ No issues reported yet.
 
 No Hotfixes requiered for this version yet.
 
-Right now there are two mods for handling death in testing phase, Ashes and Death is Highly Overrated, choose only one of them or none, but no both. Read the Nexus and decide yourself, play and give me feedback of your experience on Discord.
+Right now we are testing two mods for handling the death of the PC in a different way, Ashes (used in Ultimate Skyrim) and Death is Highly Overrated (used in Total Skyrim Overhaul), choose only one of them or none, but no both. Read the Nexus page and decide yourself, give me your feedback on Discord.
 
 [Old issues (not anymore)](#Previous-issues)
 
