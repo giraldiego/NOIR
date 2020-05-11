@@ -24,6 +24,8 @@ No issues reported yet.
 
 No Hotfixes requiered for this version yet.
 
+Right now there are two mods for handling death in testing phase, Ashes and Death is Highly Overrated, choose only one of them or none, but no both. Read the Nexus and decide yourself, play and give me feedback of your experience on Discord.
+
 [Old issues (not anymore)](#Previous-issues)
 
 ## MO2 Setup
@@ -33,7 +35,7 @@ No Hotfixes requiered for this version yet.
 1. Your MO2 Setup is now ready to start modding/ playing the NOIR experience.
 1. I prefer to have the modlist sorted by Priority from last to first instead of the defaul (first to last). Don't judge me.
 
-### *In case you messed up the modlist default order*
+### *In case you messed up the modlist default order(currently required for the first time launch)*
 
 1. Click here ![(restore backup)](images/backup.png) And restore the lastest backup made by me for every Profile you may be using ![(restore backup)](images/backup-1.png)
 1. This is to have the list sorted in the way it was intended by me.
@@ -100,7 +102,7 @@ In-Game Date
 
 ![image](images/image9.jpg)
 
-### Ashes 
+### Ashes (optional mod, testing stage)
 
 ![image](images/mcm_ashes.jpg)
 
