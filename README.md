@@ -131,7 +131,7 @@ Expanding on server rules, **do NOT** contact outside authors such as DarkLadyLe
 
 Now we have to copy files over into their correct spots. Navigate to `C:\NOIR\Game Folder Files\`. Copy all of these files and paste them into `C:\steamapps\common\Skyrim Special Edition\`
 
-Follow the steps for Nvidia Profile Inspector on [Lexy's Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE) for antialiasing and capping your FPS using your GPU driver, if not using ENB. For AMD users, use ENB or set the "Frame Rate Target Control" under "Global Settings". 
+Follow the steps for Nvidia Profile Inspector on [Lexy's Guide](https://lexyslotd.com/guide/prerequisites#nvidia-profile-inspector) for antialiasing and capping your FPS using your GPU driver, if not using ENB. For AMD users, use ENB or set the "Frame Rate Target Control" under "Global Settings". 
 
 ### Opening Mod Organizer 2
 
