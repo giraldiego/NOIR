@@ -20,7 +20,7 @@ UPDATE: A better solution if you still wanna be spiderman, use this mod instead:
 
 ## Current issues v1.3.6.1
 
-No issues reported yet.
+- Majestic Mountains Darkside was updated, we are still using the previous version of the mod. Check the pinned messages in Discord for instructions in how to continue the installation if you get an error.
 
 No Hotfixes requiered for this version yet.
 
