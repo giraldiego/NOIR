@@ -1,6 +1,19 @@
 
 # Changelog
 
+## 1.3.6.2
+
+**Released at**: `May-13-2020`
+
+**Info**:
+Maintenance update, no need to upgrade if you are in 1.3.6.x See below:
+
+**Changes**:
+
+- Fixed Majestic Mountains - Darkside download issue
+- Updated Stay At The System Page to 1.5.0
+- Updated SSE Engine Fixes (skse64 plugin) to 5.2.0
+
 ## 1.3.6.1
 
 **Released at**: `May-8-2020`

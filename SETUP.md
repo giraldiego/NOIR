@@ -18,7 +18,15 @@ UPDATE: A better solution if you still wanna be spiderman, use this mod instead:
 - If you can't dodge roll using CGO, check this [vid](https://youtu.be/RjhS9LvEaSM) for a solution.
 - [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994) has been tweaked to use a % chance for a bandit to get cloned instead of a fixed multiplier (2x, 3x, 4x, etc). The default value is 10%, but veteran players could use values above 40%.
 
-## Current issues v1.3.6.1
+## Current issues v1.3.6.2
+
+- Racial body morphs doesn't allow stagger properly for some races, this mean some NPCs won't go flying if you use unrelenting force on them, they will get stagger though, but won't fly. Read more about this [here](https://www.reddit.com/r/skyrimmods/comments/b40426/need_help_full_unrelenting_force_shout_only/). Because this is a very specific situation and not gamebreaking in Requiem world, I will work in a solution but not at high priority.
+
+- No Hotfixes requiered for this version yet.
+
+Right now we are testing two mods for handling the death of the PC in a different way, Ashes (used in Ultimate Skyrim) and Death is Highly Overrated (used in Total Skyrim Overhaul), choose only one of them or none, but no both. Read the Nexus page and decide yourself, give me your feedback on Discord.
+
+## Previous issues v1.3.6.1
 
 - Majestic Mountains Darkside and Engine Fixes were updated, we are still using the previous version of those mods. Check the pinned messages in Discord for instructions in how to continue the installation if you get an error.
 
