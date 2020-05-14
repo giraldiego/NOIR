@@ -524,3 +524,25 @@ Check the following plugins are disabled or not there in the right pane:
 Run zEdit for the NPC Apparence Transfer (read Lexy's guide) and the Reqtificator. Go to Requiem's Discord to get help in how to setup the reqtificator in SSE. The files you need to edit to make it work are located in `NOIR\mods\PROFILE NOIR 1.3.6\SkyProc Patchers\Requiem\Files` (for v1.3.6):
 
 ![image](images/vanilla_requiem-3.png)
+
+### Remove TSO Music (or any other mod)
+
+If you don't like the music, then you are a horrible person... :D  anyway, you can remove it with the following steps (also applies to any mod you don't like, you horrible person :P )
+
+First, disable the mod(s) you wish to remove in the left pane and see in the right pane, what is affected by that change, for this case DynDOLOD.esp:
+
+![image](images/no-tso-music.png)
+
+once you know what plugins will be affected by your changes, enable all  again and start xedit with the affected plugins selected, then run the `Report Masters` script.
+
+![image](images/no-tso-music-2.png)
+
+Then you need, edit every record to remove any reference to the mods you are removing. For you this case, forwarding the Requiem's value to Dyndolod plugin will do the trick.
+
+![image](images/no-tso-music-3.png)
+
+Finally, save your changes and Clean Masters
+
+![image](images/no-tso-music-4.png)
+
+You should be able to disable the mods you don't like without conflicts.
