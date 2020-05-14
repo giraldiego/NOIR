@@ -537,7 +537,7 @@ once you know what plugins will be affected by your changes, enable all  again a
 
 ![image](images/no-tso-music-2.png)
 
-Then you need to edit every record listed to remove any reference to the mods you are removing. For you this case, it is only a record and forwarding the Requiem's value to Dyndolod plugin will do the trick.
+Then you need to edit every record listed to remove any reference to the mods you are removing. For this case, it is only a record and forwarding the Requiem's value to Dyndolod plugin will do the trick.
 
 ![image](images/no-tso-music-3.png)
 
