@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 1.3.6.2
+## 1.3.6.3
 
 **Released at**: `May-13-2020`
 
@@ -13,6 +13,7 @@ Maintenance update, no need to upgrade if you are in 1.3.6.x See below:
 - Fixed Majestic Mountains - Darkside download issue
 - Updated Stay At The System Page to 1.5.0
 - Updated SSE Engine Fixes (skse64 plugin) to 5.2.0
+- Updated Requiem Patch Central to 3.17
 
 ## 1.3.6.1
 
