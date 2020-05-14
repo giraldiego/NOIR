@@ -75,7 +75,7 @@ This is to have the list sorted in the way it was intended by me.
 
 Also, there is a Test Zone, as you can guess, is for mods that could be part of the base/optional installation in the future, but that need more testing, they usually increase the difficulty of the game.
 
-If you need even more customization: [**Advanced SETUP (nevernude, etc)**](#NOIR-Advanced-SETUP)
+If you need even more customization and have decent modding experience check the: [**Advanced SETUP (nevernude, etc)**](#NOIR-Advanced-SETUP)
 
 ## In-Game MCM Options
 
@@ -537,7 +537,7 @@ once you know what plugins will be affected by your changes, enable all  again a
 
 ![image](images/no-tso-music-2.png)
 
-Then you need, edit every record to remove any reference to the mods you are removing. For you this case, forwarding the Requiem's value to Dyndolod plugin will do the trick.
+Then you need to edit every record listed to remove any reference to the mods you are removing. For you this case, it is only a record and forwarding the Requiem's value to Dyndolod plugin will do the trick.
 
 ![image](images/no-tso-music-3.png)
 
