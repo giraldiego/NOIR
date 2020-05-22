@@ -211,6 +211,8 @@ That's Requiem for you, but you will get used to, check these guides:
 
 - [Guide - How to build your first character in Requiem - part II](https://www.reddit.com/r/skyrimrequiem/comments/fchelx/guide_how_to_build_your_first_character_in/)
 
+I also recommend to watch this playlist:
+[Ranger Playthrough. Skyrim: Requiem 3.1 (2019)](https://www.youtube.com/playlist?list=PLai4iMIISmH_6SWmrm9vhfCw4lrOH5ONK)
 
 ## The dungeons are too dark!
 -   What dungeons, realistically, aren't dark? Hold "E" to turn on your lantern.
@@ -219,7 +221,7 @@ That's Requiem for you, but you will get used to, check these guides:
 -   Leave them alone. Do not touch. Do not touch anything in optional folders. These mods are merged. This applies to all modlists.
 
 ## Can you add/remove X mod?
--   Only if I feel like it. But at this point, the answer will probably be no. This is meant to be added on to. Add it yourself.
+-   Yeah, I am open to suggestions, but I am also slow to implementing stuff. The list is pretty rock solid right now. Check the setup guide for instructions to add it yourself.
 
 ## The modlist updated, and you added/removed X mod?!?! Why??!?
 -   Because I felt like it, or it didn't fit my original vision, or it's too much of a hassle to deal with. I have a limited time left on this planet and don't want to recompile/fix things every 5 minutes. If you enjoy the version you're on, there is no need to update with WJ. You can update mods yourself, and check for relevant updates by using the Updated tab on the [SSE Nexus](https://www.nexusmods.com/skyrimspecialedition?tab=updated)
