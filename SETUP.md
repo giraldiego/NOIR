@@ -4,7 +4,7 @@
 
 Always check Discord channel pinned messages, you will find the latest info, patches and comments about the current state of the modlist:
 
-![image](images/pinned.png)
+![alt text](https://i.imgur.com/varZpbi.png)
 
 Also read the [FAQ](https://github.com/giraldiego/NOIR/blob/master/README.md#FAQ) (Recommended if you are new to Requiem)
 
