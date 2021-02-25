@@ -546,3 +546,7 @@ Finally, save your changes and Clean Masters
 ![image](images/no-tso-music-4.png)
 
 You should be able to disable the mods you don't like without conflicts.
+
+### Widescreen fix
+
+If you have an ultrawide monitor (21:9), the UI will be off. You will want to install the SkyUI - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
